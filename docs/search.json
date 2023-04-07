@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "liens.html",
+    "href": "liens.html",
+    "title": "Liens utiles",
+    "section": "",
+    "text": "Julia peut être installé par l’une des deux options suivantes (la seconde étant préférable car elle devrait devenir à terme la solution officielle)\n\nInstallation classique depuis le site : https://julialang.org/downloads\nInstallation par le biais de juliaup https://github.com/JuliaLang/juliaup, par exemple ici pour Windows.\nNote: sans accès au Windows Store (par exemple restrictions dues à une politique informatique d’entreprise) il est possible de trouver une solution alternative d’installation de juliaup ici qui se résume à\n\nTélécharger le fichier Julia.appinstaller\nExécuter le code suivant sous Powershell\nPS [path] Add-AppxPackage -AppInstallerFile Julia.appinstaller\n\n\n\n\n\nQuelques vidéos utiles pour se familiariser avec le langage Julia\n\nIntro to Julia tutorial (version 1.0) by Jane Herriman Introduction assez complète de la syntaxe de base et quelques éléments avancés.\nThe Unreasonable Effectiveness of Multiple Dispatch Plus de détails sur un atout majeur du langage : le “multiple dispatch”.\n\n\n\n\n\nDocumentation générale de Julia\nPolynomials.jl\nInterpolations.jl"
+  },
+  {
+    "objectID": "liens.html#installation-de-julia",
+    "href": "liens.html#installation-de-julia",
+    "title": "Liens utiles",
+    "section": "",
+    "text": "Julia peut être installé par l’une des deux options suivantes (la seconde étant préférable car elle devrait devenir à terme la solution officielle)\n\nInstallation classique depuis le site : https://julialang.org/downloads\nInstallation par le biais de juliaup https://github.com/JuliaLang/juliaup, par exemple ici pour Windows.\nNote: sans accès au Windows Store (par exemple restrictions dues à une politique informatique d’entreprise) il est possible de trouver une solution alternative d’installation de juliaup ici qui se résume à\n\nTélécharger le fichier Julia.appinstaller\nExécuter le code suivant sous Powershell\nPS [path] Add-AppxPackage -AppInstallerFile Julia.appinstaller"
+  },
+  {
+    "objectID": "liens.html#vidéos",
+    "href": "liens.html#vidéos",
+    "title": "Liens utiles",
+    "section": "",
+    "text": "Quelques vidéos utiles pour se familiariser avec le langage Julia\n\nIntro to Julia tutorial (version 1.0) by Jane Herriman Introduction assez complète de la syntaxe de base et quelques éléments avancés.\nThe Unreasonable Effectiveness of Multiple Dispatch Plus de détails sur un atout majeur du langage : le “multiple dispatch”."
+  },
+  {
+    "objectID": "liens.html#bibliothèques-utiles-pour-le-cours",
+    "href": "liens.html#bibliothèques-utiles-pour-le-cours",
+    "title": "Liens utiles",
+    "section": "",
+    "text": "Documentation générale de Julia\nPolynomials.jl\nInterpolations.jl"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "cours.html",
+    "href": "cours.html",
+    "title": "Cours magistraux",
+    "section": "",
+    "text": "Cours magistraux\n\nLe langage Julia : html, pdf\nCalcul en virgule flottante : html, pdf\nInterpolation : html, pdf"
+  },
+  {
+    "objectID": "notebooks.html",
+    "href": "notebooks.html",
+    "title": "Notebooks Jupyter",
+    "section": "",
+    "text": "Notebooks Jupyter"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pratique du calcul scientifique",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]

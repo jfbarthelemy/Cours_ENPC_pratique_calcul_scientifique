@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Pratique du calcul scientifique"
+  navbar:
+    left:
+      - href: cours.qmd
+        text: Cours magistraux
+      - href: notebooks.qmd
+        text: Notebooks Jupyter
+      - href: liens.qmd
+        text: Liens utiles
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
