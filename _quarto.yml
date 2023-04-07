@@ -6,6 +6,8 @@ website:
   title: "Pratique du calcul scientifique"
   navbar:
     left:
+      - href: poly.qmd
+        text: Polycopié
       - href: cours.qmd
         text: Cours magistraux
       - href: notebooks.qmd

@@ -1,0 +1,5 @@
+# Polycopié du cours
+
+- [Site du polycopié](https://urbain.vaes.uk/teaching/2023-cs/)
+
+- [Polycopié seul](https://urbain.vaes.uk/static/teaching/scientific_computing/build/main.pdf)
