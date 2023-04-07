@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "cours.html",
+    "href": "cours.html",
+    "title": "Cours magistraux",
+    "section": "",
+    "text": "Cours magistraux\n\nLe langage Julia : html, pdf\nCalcul en virgule flottante : html, pdf\nInterpolation : html, pdf"
+  },
+  {
     "objectID": "liens.html",
     "href": "liens.html",
     "title": "Liens utiles",
@@ -28,20 +42,6 @@
     "text": "Documentation générale de Julia\nPolynomials.jl\nInterpolations.jl"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "cours.html",
-    "href": "cours.html",
-    "title": "Cours magistraux",
-    "section": "",
-    "text": "Cours magistraux\n\nLe langage Julia : html, pdf\nCalcul en virgule flottante : html, pdf\nInterpolation : html, pdf"
-  },
-  {
     "objectID": "notebooks.html",
     "href": "notebooks.html",
     "title": "Notebooks Jupyter",
@@ -49,10 +49,10 @@
     "text": "Notebooks Jupyter"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Pratique du calcul scientifique",
+    "objectID": "poly.html",
+    "href": "poly.html",
+    "title": "Polycopié du cours",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Polycopié du cours\n\nSite du polycopié\nPolycopié"
   }
 ]
