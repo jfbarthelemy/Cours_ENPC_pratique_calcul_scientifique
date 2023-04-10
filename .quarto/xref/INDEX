@@ -16,5 +16,11 @@
   },
   "poly.qmd": {
     "poly.html": "50e8fdda"
+  },
+  "notebooks/1_virgule_flottante.ipynb": {
+    "1_virgule_flottante.html": "bc09ccf9"
+  },
+  "notebooks/2_interpolation.ipynb": {
+    "2_interpolation.html": "9f7f652c"
   }
 }

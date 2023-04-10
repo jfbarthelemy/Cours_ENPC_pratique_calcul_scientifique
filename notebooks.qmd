@@ -2,3 +2,6 @@
 
 - [Tutoriels Julia par Jane Herriman](https://github.com/xorJane/Introduction_to_Julia_tutorials)
 
+- [Calcul en virgule flottante](https://github.com/jfbarthelemy/Cours_ENPC_pratique_calcul_scientifique/tree/main/notebooks/1_virgule_flottante.ipynb)
+
+- [Interpolation](https://github.com/jfbarthelemy/Cours_ENPC_pratique_calcul_scientifique/tree/main/notebooks/2_interpolation.ipynb)

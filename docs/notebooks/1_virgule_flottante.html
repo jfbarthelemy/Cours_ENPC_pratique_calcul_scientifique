@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.290">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Pratique du calcul scientifique - Cours ENPC - Pratique du calcul scientifique</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Pratique du calcul scientifique</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../poly.html" rel="" target="">
+ <span class="menu-text">Polycopié</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../cours.html" rel="" target="">
+ <span class="menu-text">Cours magistraux</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../notebooks.html" rel="" target="">
+ <span class="menu-text">Notebooks Jupyter</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../liens.html" rel="" target="">
+ <span class="menu-text">Liens utiles</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../about.html" rel="" target="">
+ <span class="menu-text">About</span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools ms-auto">
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#calcul-en-virgule-flottante" id="toc-calcul-en-virgule-flottante" class="nav-link active" data-scroll-target="#calcul-en-virgule-flottante">Calcul en virgule flottante</a>
+  <ul class="collapse">
+  <li><a href="#exemples-de-motivation" id="toc-exemples-de-motivation" class="nav-link" data-scroll-target="#exemples-de-motivation">Exemples de motivation</a></li>
+  <li><a href="#exercice" id="toc-exercice" class="nav-link" data-scroll-target="#exercice">Exercice</a></li>
+  <li><a href="#exercice-1" id="toc-exercice-1" class="nav-link" data-scroll-target="#exercice-1">Exercice</a></li>
+  <li><a href="#exemples-dopérations-sur-les-flottants" id="toc-exemples-dopérations-sur-les-flottants" class="nav-link" data-scroll-target="#exemples-dopérations-sur-les-flottants">Exemples d’opérations sur les flottants</a></li>
+  <li><a href="#exercice-2" id="toc-exercice-2" class="nav-link" data-scroll-target="#exercice-2">Exercice</a></li>
+  <li><a href="#exemples-sur-les" id="toc-exemples-sur-les" class="nav-link" data-scroll-target="#exemples-sur-les">Exemples sur les</a></li>
+  <li><a href="#exercice-sur-lalgorithme-de-sommation-de-kahan" id="toc-exercice-sur-lalgorithme-de-sommation-de-kahan" class="nav-link" data-scroll-target="#exercice-sur-lalgorithme-de-sommation-de-kahan">Exercice sur l’algorithme de sommation de Kahan</a></li>
+  <li><a href="#exercice-sur-la-différentiation-numérique" id="toc-exercice-sur-la-différentiation-numérique" class="nav-link" data-scroll-target="#exercice-sur-la-différentiation-numérique">Exercice sur la différentiation numérique</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Cours ENPC - Pratique du calcul scientifique</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<section id="calcul-en-virgule-flottante" class="level2">
+<h2 class="anchored" data-anchor-id="calcul-en-virgule-flottante">Calcul en virgule flottante</h2>
+<section id="exemples-de-motivation" class="level3">
+<h3 class="anchored" data-anchor-id="exemples-de-motivation">Exemples de motivation</h3>
+<p>Afficher les calculs de la présentation du cours <code>0.1 + 0.2 == 0.3</code> etc…<br>
+Pour afficher un résultat, plusieurs commandes sont possibles : <code>print</code>, <code>println</code>, <code>display</code> et <code>@show</code>.<br>
+On rappelle que l’aide sur une commande est accessible depuis le REPL en tapant d’abord <code>?</code> puis la commande. Si la commande appartient à une bibliothèque non standard, il faut au préalable charger la bibliothèque par <code>using</code> ou <code>import</code>.</p>
+</section>
+<section id="exercice" class="level3">
+<h3 class="anchored" data-anchor-id="exercice">Exercice</h3>
+<ol type="1">
+<li>Construire une fonction renvoyant le signe, l’exposant et la mantisse en s’arrêtant à <code>n</code> bits après la virgule</li>
+<li>Appliquer à <code>x = 1/BigFloat(10)</code> en tronquant la mantisse à 52 bits après la virgule</li>
+<li>Expliquer ce que renvoie <code>bitstring(0.1)[13:end]</code> et la raison du <code>13</code></li>
+<li>Comparer</li>
+</ol>
+</section>
+<section id="exercice-1" class="level3">
+<h3 class="anchored" data-anchor-id="exercice-1">Exercice</h3>
+<ol type="1">
+<li>Implémenter l’algorithme décimal → binaire pour des entiers <span class="math inline">\(n∈\mathbb{N}\)</span></li>
+<li>Appliquer à quelques entiers et vérifier le résultat avec <code>bitstring</code></li>
+</ol>
+</section>
+<section id="exemples-dopérations-sur-les-flottants" class="level3">
+<h3 class="anchored" data-anchor-id="exemples-dopérations-sur-les-flottants">Exemples d’opérations sur les flottants</h3>
+</section>
+<section id="exercice-2" class="level3">
+<h3 class="anchored" data-anchor-id="exercice-2">Exercice</h3>
+<p>Expliquer par analyse des exposants et mantisses pourquoi <span class="math inline">\(0.1 \widehat + 0.2≠0.3\)</span> dans <code>Float16</code></p>
+</section>
+<section id="exemples-sur-les" class="level3">
+<h3 class="anchored" data-anchor-id="exemples-sur-les">Exemples sur les</h3>
+<p>Afficher <code>bitstring(1)</code>, <code>bitstring(-1)</code>, <code>2^63</code>, <code>-2^63-1</code> et <code>2^64</code></p>
+</section>
+<section id="exercice-sur-lalgorithme-de-sommation-de-kahan" class="level3">
+<h3 class="anchored" data-anchor-id="exercice-sur-lalgorithme-de-sommation-de-kahan">Exercice sur l’algorithme de sommation de Kahan</h3>
+<ol type="1">
+<li>Implémenter une fonction “naïve” <code>MySum</code> faisant la somme des composantes d’un vecteur <code>X</code></li>
+<li>Implémenter l’algorithme <code>KahanSum</code></li>
+<li>Choisir un type <code>T</code>, un entier <code>n</code> et construire le vecteur<br>
+<code>X=[one(T),eps(T)/2,...,eps(T)/2]</code> où <code>eps(T)/2</code> est répété <span class="math inline">\(n-1\)</span> fois</li>
+<li>Comparer les sommes obtenues en utilisant les fonctions <code>MySum</code>, <code>sum</code> et <code>KahanSum</code> sur <code>X</code> ainsi que sur <code>view(X,n:-1:1)</code></li>
+<li>Construire un vecteur aléatoire <code>Y=rand(T,n)</code> ainsi qu’une version ordonnée <code>Ỹ=sort(Y)</code></li>
+<li>Comparer les sommes obtenues sur <code>Y</code> et <code>Ỹ</code> avec les différents algorithmes. On pourra notamment se servir de la bibliothèque <a href="https://github.com/JuliaMath/Xsum.jl"><code>Xsum.jl</code></a> comme référence.</li>
+</ol>
+</section>
+<section id="exercice-sur-la-différentiation-numérique" class="level3">
+<h3 class="anchored" data-anchor-id="exercice-sur-la-différentiation-numérique">Exercice sur la différentiation numérique</h3>
+<ol type="1">
+<li><p>On pose <span class="math inline">\(f(x)=\exp{x}\)</span>, <span class="math inline">\(x_0=1\)</span> et <span class="math inline">\(d(δ)=\frac{f(x_0+δ)-f(x_0)}{δ}\)</span>. Tracer l’erreur commise entre <span class="math inline">\(d(δ)\)</span> et <span class="math inline">\(f'(x_0)=\exp{x_0}\)</span> en fonction de <span class="math inline">\(δ ∈ [10^{-17},10^{0}]\)</span> sur un graphe log-log en repérant les droites verticales d’équations <span class="math inline">\(δ=ε_M\)</span> et <span class="math inline">\(δ=\sqrt{ε_M}\)</span>.</p></li>
+<li><p>Refaire la question précédente avec une fonction quelconque dont la dérivée exacte sera calculée par différentiation numérique à l’aide de la bibliothèque <a href="https://github.com/FluxML/Zygote.jl"><code>Zygote.jl</code></a>.</p></li>
+</ol>
+<p><em>Indication :</em></p>
+<p>Les graphiques peuvent être tracés grâce à la bibliothèque <a href="https://github.com/JuliaPlots/jl"><code>Plots.jl</code></a></p>
+<ul>
+<li><p><a href="https://github.com/JuliaPlots/jl">dépôt GitHub</a></p></li>
+<li><p><a href="https://docs.juliaorg/stable/">documentation</a></p></li>
+<li><p><a href="https://docs.juliaorg/stable/tutorial/#tutorial">tutoriel</a></p></li>
+<li><p>Il est possible de définir des options de tracé par défaut (qui peuvent être redéfinies ponctuellement au besoin) par</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>Plots.<span class="fu">default</span>(fontfamily<span class="op">=</span><span class="st">"Computer Modern"</span>,</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>            titlefontsize<span class="op">=</span><span class="fl">20</span>,</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>            xlabelfontsize<span class="op">=</span><span class="fl">20</span>,</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>            ylabelfontsize<span class="op">=</span><span class="fl">20</span>,</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>            legendfontsize<span class="op">=</span><span class="fl">16</span>,</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>            xtickfontsize<span class="op">=</span><span class="fl">16</span>,</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>            ytickfontsize<span class="op">=</span><span class="fl">16</span>,</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>            linewidth<span class="op">=</span><span class="fl">2</span>,</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>            markersize<span class="op">=</span><span class="fl">7</span>,</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>            framestyle<span class="op">=:</span>box,</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>            label<span class="op">=</span><span class="cn">nothing</span>,</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>            grid<span class="op">=</span><span class="cn">true</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
+</ul>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>
