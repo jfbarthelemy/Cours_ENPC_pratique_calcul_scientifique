@@ -1,7 +1,7 @@
 # Cours magistraux
 
-- Le langage Julia : [html](cours/julia.html), [pdf](cours/julia.pdf)
+- [Le langage Julia](cours/julia.html)
 
-- Calcul en virgule flottante : [html](cours/virgule_flottante.html), [pdf](cours/virgule_flottante.pdf)
+- [Calcul en virgule flottante](cours/virgule_flottante.html)
 
-- Interpolation : [html](cours/interpolation.html), [pdf](cours/interpolation.pdf)
+- [Interpolation](cours/interpolation.html)
