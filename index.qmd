@@ -7,7 +7,7 @@ subtitle: Cours ENPC
 
 - [Jean-François Barthélémy](https://www.cerema.fr/fr/innovation-recherche/recherche/equipes/membre/jean-francois-barthelemy)
 
-- [Noé Blassel](https://noeblassel.github.io/about/)
+- [Noé Blassel](https://noeblassel.github.io/)
 
 - [Shiva Darshan](https://shiva-darshan.github.io/)
 
