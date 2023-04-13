@@ -46,13 +46,13 @@
     "href": "poly.html",
     "title": "Polycopié du cours",
     "section": "",
-    "text": "Polycopié du cours\n\nSite du polycopié\nPolycopié"
+    "text": "Polycopié du cours\n\nNotes complètes (en construction)\nIntroduction\nChapter 1: Floating point arithmetic\nChapter 2: Interpolation and approximation\nChapter 3: Numerical integration\nChapter 4: Solving linear equations\nChapter 5: Solving nonlinear equations\nChapter 6: Calculating eigenvalues and eigenvectors\nChapter 7: Numerical integration of differential equations\nChapter 8: Numerical optimization\nAppendix A: Linear algebra\nAppendix B: Introduction to Julia\nAppendix C: Chebyshev polynomials\nBibliography"
   },
   {
     "objectID": "devoirs.html",
     "href": "devoirs.html",
     "title": "Pratique du calcul scientifique",
     "section": "",
-    "text": "Consigne: Faire l’exercice 2.15 et le soumettre sur Educnet.\nData limitie de remise: le 20 avril 2023 à 23h59."
+    "text": "Consigne: Faire l’exercice 2.15 et le soumettre sur Educnet.\nData limite de remise: le 20 avril 2023 à 23h59."
   }
 ]
