@@ -1,6 +1,6 @@
 # Polycopié du cours
 
-- [Notes complètes](https://urbain.vaes.ukhttps://urbain.vaes.uk/static/teaching/scientific_computing/build/main.pdf) (en construction)
+- [Notes complètes](https://urbain.vaes.uk/static/teaching/scientific_computing/build/main.pdf)
 
 - [Introduction](https://urbain.vaes.uk/static/teaching/scientific_computing/build/introduction.pdf)
 

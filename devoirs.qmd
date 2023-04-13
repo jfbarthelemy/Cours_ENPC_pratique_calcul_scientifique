@@ -1,6 +1,9 @@
 ## Devoir 1
 
-- **Consigne**: Faire l'exercice 2.15 et le soumettre sur [Educnet](https://educnet.enpc.fr/course/view.php?id=1776#section-0).
+- **Consignes** :
 
-- **Data limite de remise**: le 20 avril 2023 à 23h59.
+    - Lire les notes de cours jusqu'à la page 32
 
+    - Faire l'exercice 2.15 et le soumettre sur [Educnet](https://educnet.enpc.fr/course/view.php?id=1776#section-0).
+
+- **Date limite de remise** : le 20 avril 2023 à 23h59.
