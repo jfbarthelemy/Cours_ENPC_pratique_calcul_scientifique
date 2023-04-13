@@ -18,14 +18,14 @@
     "href": "devoirs.html",
     "title": "Pratique du calcul scientifique",
     "section": "",
-    "text": "Consigne : faire l’exercice 2.15 et le soumettre sur Educnet.\nDate limite de remise: le 20 avril 2023 à 23h59."
+    "text": "Consignes :\n\nLire les notes de cours jusqu’à la page 32\nFaire l’exercice 2.15 et le soumettre sur Educnet.\n\nDate limite de remise : le 20 avril 2023 à 23h59."
   },
   {
     "objectID": "devoirs.html#devoir-1",
     "href": "devoirs.html#devoir-1",
     "title": "Pratique du calcul scientifique",
     "section": "",
-    "text": "Consigne : faire l’exercice 2.15 et le soumettre sur Educnet.\nDate limite de remise: le 20 avril 2023 à 23h59."
+    "text": "Consignes :\n\nLire les notes de cours jusqu’à la page 32\nFaire l’exercice 2.15 et le soumettre sur Educnet.\n\nDate limite de remise : le 20 avril 2023 à 23h59."
   },
   {
     "objectID": "liens.html",
@@ -95,6 +95,6 @@
     "href": "poly.html",
     "title": "Polycopié du cours",
     "section": "",
-    "text": "Polycopié du cours\n\nNotes complètes (en construction)\nIntroduction\nChapter 1: Floating point arithmetic\nChapter 2: Interpolation and approximation\nChapter 3: Numerical integration\nChapter 4: Solving linear equations\nChapter 5: Solving nonlinear equations\nChapter 6: Calculating eigenvalues and eigenvectors\nChapter 7: Numerical integration of differential equations\nChapter 8: Numerical optimization\nAppendix A: Linear algebra\nAppendix B: Introduction to Julia\nAppendix C: Chebyshev polynomials\nBibliography"
+    "text": "Polycopié du cours\n\nNotes complètes\nIntroduction\nChapter 1: Floating point arithmetic\nChapter 2: Interpolation and approximation\nChapter 3: Numerical integration\nChapter 4: Solving linear equations\nChapter 5: Solving nonlinear equations\nChapter 6: Calculating eigenvalues and eigenvectors\nChapter 7: Numerical integration of differential equations\nChapter 8: Numerical optimization\nAppendix A: Linear algebra\nAppendix B: Introduction to Julia\nAppendix C: Chebyshev polynomials\nBibliography"
   }
 ]
