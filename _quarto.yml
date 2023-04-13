@@ -12,6 +12,8 @@ website:
         text: Cours magistraux
       - href: notebooks.qmd
         text: Notebooks Jupyter
+      - href: devoirs.qmd
+        text: Devoirs
       - href: liens.qmd
         text: Liens utiles
       - about.qmd
