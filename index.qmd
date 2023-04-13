@@ -3,3 +3,16 @@ title: "Pratique du calcul scientifique"
 subtitle: Cours ENPC
 ---
 
+# Équipe enseignante:
+
+- [Jean-François Barthélémy](https://www.cerema.fr/fr/innovation-recherche/recherche/equipes/membre/jean-francois-barthelemy)
+
+- [Noé Blassel](https://noeblassel.github.io/about/)
+
+- [Shiva Darshan](https://shiva-darshan.github.io/)
+
+- [Régis Santet](https://rsantet.github.io/) (la première semaine)
+
+- [Renato Spacek](https://renatospacek.github.io/)
+
+- [Urbain Vaes](https://urbain.vaes.uk/)

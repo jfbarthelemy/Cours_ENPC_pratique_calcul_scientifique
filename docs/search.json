@@ -28,6 +28,13 @@
     "text": "Notebooks Jupyter\n\nTutoriels Julia par Jane Herriman\nCalcul en virgule flottante\nInterpolation"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pratique du calcul scientifique",
+    "section": "",
+    "text": "Équipe enseignante:\n\nJean-François Barthélémy\nNoé Blassel\nShiva Darshan\nRégis Santet (la première semaine)\nRenato Spacek\nUrbain Vaes"
+  },
+  {
     "objectID": "notebooks/1_virgule_flottante.html",
     "href": "notebooks/1_virgule_flottante.html",
     "title": "Cours ENPC - Pratique du calcul scientifique",
