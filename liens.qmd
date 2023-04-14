@@ -32,6 +32,12 @@ Quelques vidéos utiles pour se familiariser avec le langage `Julia`
 
 - [Documentation générale de `Julia`](https://docs.julialang.org/en/v1/)
 
+- [`Plots.jl`](https://github.com/JuliaPlots/Plots.jl)
+
+- [`Xsum.jl`](https://github.com/JuliaMath/Xsum.jl)
+
+- [`Zygote.jl`](https://github.com/FluxML/Zygote.jl)
+
 - [`Polynomials.jl`](https://github.com/JuliaMath/Polynomials.jl)
 
 - [`Interpolations.jl`](https://github.com/JuliaMath/Interpolations.jl)
