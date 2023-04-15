@@ -1,4 +1,4 @@
-# Notebooks Jupyter
+# Notebooks
 
 - [Tutoriels Julia par Jane Herriman](https://github.com/xorJane/Introduction_to_Julia_tutorials)
 

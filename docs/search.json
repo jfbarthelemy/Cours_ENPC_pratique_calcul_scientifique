@@ -9,9 +9,9 @@
   {
     "objectID": "cours.html",
     "href": "cours.html",
-    "title": "Cours magistraux",
+    "title": "Cours",
     "section": "",
-    "text": "Cours magistraux\n\nLe langage Julia\nCalcul en virgule flottante\nInterpolation"
+    "text": "Cours\n\nLe langage Julia\nCalcul en virgule flottante\nInterpolation"
   },
   {
     "objectID": "devoirs.html",
@@ -65,9 +65,9 @@
   {
     "objectID": "notebooks.html",
     "href": "notebooks.html",
-    "title": "Notebooks Jupyter",
+    "title": "Notebooks",
     "section": "",
-    "text": "Notebooks Jupyter\n\nTutoriels Julia par Jane Herriman\nCalcul en virgule flottante\nInterpolation"
+    "text": "Notebooks\n\nTutoriels Julia par Jane Herriman\nCalcul en virgule flottante\nInterpolation"
   },
   {
     "objectID": "poly.html",

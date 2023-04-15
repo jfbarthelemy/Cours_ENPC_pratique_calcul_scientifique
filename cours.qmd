@@ -1,4 +1,4 @@
-# Cours magistraux
+# Cours
 
 - [Le langage Julia](cours/julia.html)
 
