@@ -14,7 +14,7 @@ website:
       - href: poly.qmd
         text: Polycopié
       - href: cours.qmd
-        text: Cours magistraux
+        text: Cours
       - href: notebooks.qmd
         text: Notebooks
       - href: devoirs.qmd
