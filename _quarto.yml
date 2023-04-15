@@ -1,6 +1,11 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+    - "!*.ipynb"
+  resources:
+    - "*.ipynb"
 
 website:
   title: "Pratique du calcul scientifique"
@@ -11,15 +16,18 @@ website:
       - href: cours.qmd
         text: Cours magistraux
       - href: notebooks.qmd
-        text: Notebooks Jupyter
+        text: Notebooks
       - href: devoirs.qmd
         text: Devoirs
       - href: liens.qmd
         text: Liens utiles
       - about.qmd
 
+editor:
+    render-on-save: true
+
 format:
   html:
-    theme: cosmo
+    theme: zephyr
     css: styles.css
     toc: true
