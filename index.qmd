@@ -5,14 +5,15 @@ subtitle: Cours ENPC
 
 # Équipe enseignante:
 
-- [Jean-François Barthélémy](https://www.cerema.fr/fr/innovation-recherche/recherche/equipes/membre/jean-francois-barthelemy)
+- Groupe 1, salle F102: [Jean-François Barthélémy](https://www.cerema.fr/fr/innovation-recherche/recherche/equipes/membre/jean-francois-barthelemy) (jean-francois.barthelemy@cerema.fr)
 
-- [Noé Blassel](https://noeblassel.github.io/)
+- Groupe 2, salle F103: [Noé Blassel](https://noeblassel.github.io/) (noe.blassel@enpc.fr)
 
-- [Shiva Darshan](https://shiva-darshan.github.io/)
+- Groupe 3, salle F107: [Shiva Darshan](https://shiva-darshan.github.io/) (shiva.darshan@enpc.fr)
 
-- [Régis Santet](https://rsantet.github.io/) (la première semaine)
+- Groupe 4: salle F108: [Renato Spacek](https://renatospacek.github.io/) (renato.spacek@enpc.fr)
 
-- [Renato Spacek](https://renatospacek.github.io/)
+- Groupe 5: salle F201: [Urbain Vaes](https://urbain.vaes.uk/) (urbain.vaes@inria.fr)
 
-- [Urbain Vaes](https://urbain.vaes.uk/)
+Si vous souhaitez poser une question sur le cours par courriel,
+merci de contacter votre chargé de cour.
