@@ -5,3 +5,5 @@
 - [Calcul en virgule flottante](notebooks/1_virgule_flottante.ipynb)
 
 - [Interpolation](notebooks/2_interpolation.ipynb)
+
+- [Intégration](notebooks/3_integration.ipynb)

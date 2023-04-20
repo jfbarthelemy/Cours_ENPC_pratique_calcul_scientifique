@@ -5,3 +5,5 @@
 - [Calcul en virgule flottante](cours/virgule_flottante.html)
 
 - [Interpolation](cours/interpolation.html)
+
+- [Intégration](cours/integration.html)
