@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.326">
+<meta name="generator" content="quarto-1.3.231">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  margin: 0 0.8em 0.2em -1.6em;
   vertical-align: middle;
 }
 </style>
@@ -148,13 +148,13 @@ ul.task-list li input[type="checkbox"] {
 <section id="équipe-enseignante" class="level1">
 <h1>Équipe enseignante:</h1>
 <ul>
-<li><p><a href="https://www.cerema.fr/fr/innovation-recherche/recherche/equipes/membre/jean-francois-barthelemy">Jean-François Barthélémy</a></p></li>
-<li><p><a href="https://noeblassel.github.io/">Noé Blassel</a></p></li>
-<li><p><a href="https://shiva-darshan.github.io/">Shiva Darshan</a></p></li>
-<li><p><a href="https://rsantet.github.io/">Régis Santet</a> (la première semaine)</p></li>
-<li><p><a href="https://renatospacek.github.io/">Renato Spacek</a></p></li>
-<li><p><a href="https://urbain.vaes.uk/">Urbain Vaes</a></p></li>
+<li><p>Groupe 1, salle F102: <a href="https://www.cerema.fr/fr/innovation-recherche/recherche/equipes/membre/jean-francois-barthelemy">Jean-François Barthélémy</a> (jean-francois.barthelemy@cerema.fr)</p></li>
+<li><p>Groupe 2, salle F103: <a href="https://noeblassel.github.io/">Noé Blassel</a> (noe.blassel@enpc.fr)</p></li>
+<li><p>Groupe 3, salle F107: <a href="https://shiva-darshan.github.io/">Shiva Darshan</a> (shiva.darshan@enpc.fr)</p></li>
+<li><p>Groupe 4: salle F108: <a href="https://renatospacek.github.io/">Renato Spacek</a> (renato.spacek@enpc.fr)</p></li>
+<li><p>Groupe 5: salle F201: <a href="https://urbain.vaes.uk/">Urbain Vaes</a> (urbain.vaes@inria.fr)</p></li>
 </ul>
+<p>Si vous souhaitez poser une question sur le cours par courriel, merci de contacter votre chargé de cour.</p>
 
 
 </section>
@@ -187,23 +187,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
-  const isCodeAnnotation = (el) => {
-    for (const clz of el.classList) {
-      if (clz.startsWith('code-annotation-')) {                     
-        return true;
-      }
-    }
-    return false;
-  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
+    target: function(trigger) {
+      return trigger.previousElementSibling;
     }
   });
   clipboard.on('success', function(e) {
