@@ -1,3 +1,5 @@
+**Remarque générale sur les devoirs à rendre :** merci de bien vouloir renommer le fichier que vous soumettez sur Educnet sous la forme `grN_nom_prenom.ipynb` où `N` désigne votre numéro de groupe.
+
 ## Devoir 1
 
 - Lire les notes de cours jusqu'à la page 32.
@@ -8,8 +10,9 @@
 
 ## Devoir 2
 
-- Faire les deux exercices numériques du notebook [`3_integration.ipynb`](notebooks/3_integration.ipynb).
+- Faire les deux exercices numériques du notebook [`3_integration.ipynb`](notebooks/3_integration.ipynb) et soumettre ce dernier sur [Educnet](https://educnet.enpc.fr/course/view.php?id=1776#section-1).
 
   *Attention : il n’est pas demandé de faire ni de rédiger les démonstrations de l’exercice théorique en début de notebook mais il est utile de le lire car les exercices numériques s’appuient sur des résultats exposés dans cet exercice.*
 
   **Date limite de remise** : le 27 avril 2023 à 23h59.
+
