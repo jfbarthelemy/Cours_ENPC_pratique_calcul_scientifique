@@ -21,11 +21,25 @@
     "text": "Lire les notes de cours jusqu’à la page 32.\nFaire l’exercice 2.15 et le soumettre sur Educnet.\nDate limite de remise : le 20 avril 2023 à 23h59."
   },
   {
+    "objectID": "devoirs.html#devoir-1",
+    "href": "devoirs.html#devoir-1",
+    "title": "Pratique du calcul scientifique",
+    "section": "",
+    "text": "Lire les notes de cours jusqu’à la page 32.\nFaire l’exercice 2.15 et le soumettre sur Educnet.\nDate limite de remise : le 20 avril 2023 à 23h59."
+  },
+  {
+    "objectID": "devoirs.html#devoir-2",
+    "href": "devoirs.html#devoir-2",
+    "title": "Pratique du calcul scientifique",
+    "section": "Devoir 2",
+    "text": "Devoir 2\n\nFaire les deux exercices numériques du notebook 3_integration.ipynb.\nAttention : il n’est pas demandé de faire ni de rédiger les démonstrations de l’exercice théorique en début de notebook mais il est utile de le lire car les exercices numériques s’appuient sur des résultats exposés dans cet exercice.\nDate limite de remise : le 27 avril 2023 à 23h59."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Pratique du calcul scientifique",
     "section": "",
-    "text": "Équipe enseignante:\n\nGroupe 1, salle F102: Jean-François Barthélémy (jean-francois.barthelemy@cerema.fr)\nGroupe 2, salle F103: Noé Blassel (noe.blassel@enpc.fr)\nGroupe 3, salle F107: Shiva Darshan (shiva.darshan@enpc.fr)\nGroupe 4: salle F108: Renato Spacek (renato.spacek@enpc.fr)\nGroupe 5: salle F201: Urbain Vaes (urbain.vaes@inria.fr)\n\nSi vous souhaitez poser une question sur le cours par courriel, merci de contacter votre chargé de cour."
+    "text": "Équipe enseignante:\n\nGroupe 1, salle F102: Jean-François Barthélémy (jean-francois.barthelemy@cerema.fr)\nGroupe 2, salle F103: Noé Blassel (noe.blassel@enpc.fr)\nGroupe 3, salle F107: Shiva Darshan (shiva.darshan@enpc.fr)\nGroupe 4: salle F108: Renato Spacek (renato.spacek@enpc.fr)\nGroupe 5: salle F201: Urbain Vaes (urbain.vaes@inria.fr)\n\nSi vous souhaitez poser une question sur le cours par courriel, merci de contacter votre chargé de cours."
   },
   {
     "objectID": "liens.html",
@@ -33,6 +47,27 @@
     "title": "Liens utiles",
     "section": "",
     "text": "Julia peut être installé par l’une des deux options suivantes (la seconde étant préférable car elle devrait devenir à terme la solution officielle)\n\nInstallation classique depuis le site : https://julialang.org/downloads\nInstallation par le biais de juliaup https://github.com/JuliaLang/juliaup, par exemple ici pour Windows.\nNote: sans accès au Windows Store (par exemple restrictions dues à une politique informatique d’entreprise) il est possible de trouver une solution alternative d’installation de juliaup ici qui se résume à\n\nTélécharger le fichier Julia.appinstaller\nExécuter le code suivant sous Powershell\nPS [path] Add-AppxPackage -AppInstallerFile Julia.appinstaller\n\n\n\n\n\nQuelques vidéos utiles pour se familiariser avec le langage Julia\n\nIntro to Julia tutorial (version 1.0) by Jane Herriman Introduction assez complète de la syntaxe de base et quelques éléments avancés.\nThe Unreasonable Effectiveness of Multiple Dispatch Plus de détails sur un atout majeur du langage : le “multiple dispatch”.\n\n\n\n\n\nDocumentation générale de Julia\nPlots.jl\nXsum.jl\nZygote.jl\nPolynomials.jl\nInterpolations.jl\nQuadmath.jl"
+  },
+  {
+    "objectID": "liens.html#installation-de-julia",
+    "href": "liens.html#installation-de-julia",
+    "title": "Liens utiles",
+    "section": "",
+    "text": "Julia peut être installé par l’une des deux options suivantes (la seconde étant préférable car elle devrait devenir à terme la solution officielle)\n\nInstallation classique depuis le site : https://julialang.org/downloads\nInstallation par le biais de juliaup https://github.com/JuliaLang/juliaup, par exemple ici pour Windows.\nNote: sans accès au Windows Store (par exemple restrictions dues à une politique informatique d’entreprise) il est possible de trouver une solution alternative d’installation de juliaup ici qui se résume à\n\nTélécharger le fichier Julia.appinstaller\nExécuter le code suivant sous Powershell\nPS [path] Add-AppxPackage -AppInstallerFile Julia.appinstaller"
+  },
+  {
+    "objectID": "liens.html#vidéos",
+    "href": "liens.html#vidéos",
+    "title": "Liens utiles",
+    "section": "",
+    "text": "Quelques vidéos utiles pour se familiariser avec le langage Julia\n\nIntro to Julia tutorial (version 1.0) by Jane Herriman Introduction assez complète de la syntaxe de base et quelques éléments avancés.\nThe Unreasonable Effectiveness of Multiple Dispatch Plus de détails sur un atout majeur du langage : le “multiple dispatch”."
+  },
+  {
+    "objectID": "liens.html#bibliothèques-utiles-pour-le-cours",
+    "href": "liens.html#bibliothèques-utiles-pour-le-cours",
+    "title": "Liens utiles",
+    "section": "",
+    "text": "Documentation générale de Julia\nPlots.jl\nXsum.jl\nZygote.jl\nPolynomials.jl\nInterpolations.jl\nQuadmath.jl"
   },
   {
     "objectID": "notebooks.html",

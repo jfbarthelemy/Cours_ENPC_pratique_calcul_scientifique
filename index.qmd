@@ -16,4 +16,4 @@ subtitle: Cours ENPC
 - Groupe 5: salle F201: [Urbain Vaes](https://urbain.vaes.uk/) (urbain.vaes@inria.fr)
 
 Si vous souhaitez poser une question sur le cours par courriel,
-merci de contacter votre chargé de cour.
+merci de contacter votre chargé de cours.

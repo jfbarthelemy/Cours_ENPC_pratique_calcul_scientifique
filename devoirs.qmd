@@ -6,3 +6,10 @@
 
   **Date limite de remise** : le 20 avril 2023 à 23h59.
 
+## Devoir 2
+
+- Faire les deux exercices numériques du notebook [`3_integration.ipynb`](notebooks/3_integration.ipynb).
+
+  *Attention : il n’est pas demandé de faire ni de rédiger les démonstrations de l’exercice théorique en début de notebook mais il est utile de le lire car les exercices numériques s’appuient sur des résultats exposés dans cet exercice.*
+
+  **Date limite de remise** : le 27 avril 2023 à 23h59.
