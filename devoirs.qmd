@@ -6,7 +6,7 @@
 
 - Faire l'exercice 2.15 et le soumettre sur [Educnet](https://educnet.enpc.fr/course/view.php?id=1776#section-0).
 
-  **Date limite de remise** : le 20 avril 2023 à 23h59.
+  **Date limite de remise** : jeudi 20 avril 2023 à 23h59.
 
 ## Devoir 2
 
@@ -14,5 +14,5 @@
 
   *Attention : il n’est pas demandé de faire ni de rédiger les démonstrations de l’exercice théorique en début de notebook mais il est utile de le lire car les exercices numériques s’appuient sur des résultats exposés dans cet exercice.*
 
-  **Date limite de remise** : le 27 avril 2023 à 23h59.
+  **Date limite de remise** : lundi 1er mai 2023 à 23h59.
 
