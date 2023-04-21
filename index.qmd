@@ -7,11 +7,11 @@ subtitle: Cours ENPC
 
 - Groupe 1, salle F102: [Jean-François Barthélémy](https://www.cerema.fr/fr/innovation-recherche/recherche/equipes/membre/jean-francois-barthelemy) (jean-francois.barthelemy@cerema.fr)
 
-- Groupe 2, salle F103: [Renato Spacek](https://noeblassel.github.io/) (noe.blassel@enpc.fr)
+- Groupe 2, salle F103: [Renato Spacek](https://noeblassel.github.io/) (renato.spacek@enpc.fr)
 
-- Groupe 3, salle F107: [Noé Blassel](https://shiva-darshan.github.io/) (shiva.darshan@enpc.fr)
+- Groupe 3, salle F107: [Noé Blassel](https://shiva-darshan.github.io/) (noe.blassel@enpc.fr)
 
-- Groupe 4, salle F108: [Shiva Darshan](https://renatospacek.github.io/) (renato.spacek@enpc.fr)
+- Groupe 4, salle F108: [Shiva Darshan](https://renatospacek.github.io/) (shiva.darshan@enpc.fr)
 
 - Groupe 5, salle F201: [Urbain Vaes](https://urbain.vaes.uk/) (urbain.vaes@inria.fr)
 
