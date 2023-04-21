@@ -18,7 +18,7 @@
     "href": "devoirs.html",
     "title": "Pratique du calcul scientifique",
     "section": "",
-    "text": "Remarque générale sur les devoirs à rendre : merci de bien vouloir renommer le fichier que vous soumettez sur Educnet sous la forme grN_nom_prenom.ipynb où N désigne votre numéro de groupe."
+    "text": "Remarque générale sur les devoirs à rendre : merci de bien vouloir renommer le fichier que vous soumettez sur Educnet sous la forme grI_devJ_nom_prenom.ipynb où I désigne votre numéro de groupe et J le numéro du devoir."
   },
   {
     "objectID": "devoirs.html#devoir-1",
