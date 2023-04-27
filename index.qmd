@@ -3,7 +3,7 @@ title: "Pratique du calcul scientifique"
 subtitle: Cours ENPC
 ---
 
-# Équipe enseignante:
+# Équipe enseignante :
 
 - Groupe 1, salle F102: [Jean-François Barthélémy](https://www.cerema.fr/fr/innovation-recherche/recherche/equipes/membre/jean-francois-barthelemy) (jean-francois.barthelemy@cerema.fr)
 

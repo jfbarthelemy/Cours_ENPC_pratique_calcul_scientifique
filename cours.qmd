@@ -7,3 +7,5 @@
 - [Interpolation](cours/interpolation.html)
 
 - [Intégration](cours/integration.html)
+
+- [Systèmes linéaires](cours/linear.html)

@@ -20,5 +20,5 @@
 
 - Faire tous les exercices du notebook [`4_systemes_lineaires_gradients_conjugues.ipynb`](notebooks/4_systemes_lineaires_gradients_conjugues.ipynb) et soumettre ce dernier sur [Educnet](https://educnet.enpc.fr/course/view.php?id=1776#section-1).
 
-  **Date limite de remise** : à définir.
+  **Date limite de remise** : vendredi 12 mai 2023 à 23h59.
 
