@@ -7,3 +7,7 @@
 - [Interpolation](notebooks/2_interpolation.ipynb)
 
 - [Intégration](notebooks/3_integration.ipynb)
+
+- [Systèmes linéaires: exercices en séance](notebooks/4_systemes_lineaires.ipynb)
+
+- [Systèmes linéaires: gradients conjugués](notebooks/4_systemes_lineaires_gradients_conjugues.ipynb)
