@@ -39,7 +39,7 @@
     "href": "devoirs.html#devoir-3",
     "title": "Pratique du calcul scientifique",
     "section": "Devoir 3",
-    "text": "Devoir 3\n\nFaire tous les exercices du notebook 4_systemes_lineaires_gradients_conjugues.ipynb et soumettre ce dernier sur Educnet.\nDate limite de remise : vendredi 12 mai 2023 à 23h59."
+    "text": "Devoir 3\n\nFaire tous les exercices du notebook 4_systemes_lineaires_gradients_conjugues.ipynb et soumettre ce dernier sur Educnet.\nDate limite de remise : lundi 15 mai 2023 à 23h59."
   },
   {
     "objectID": "index.html",
@@ -54,6 +54,27 @@
     "title": "Liens utiles",
     "section": "",
     "text": "Julia peut être installé par l’une des deux options suivantes (la seconde étant préférable car elle devrait devenir à terme la solution officielle)\n\nInstallation classique depuis le site : https://julialang.org/downloads\nInstallation par le biais de juliaup https://github.com/JuliaLang/juliaup, par exemple ici pour Windows.\nNote: sans accès au Windows Store (par exemple restrictions dues à une politique informatique d’entreprise) il est possible de trouver une solution alternative d’installation de juliaup ici qui se résume à\n\nTélécharger le fichier Julia.appinstaller\nExécuter le code suivant sous Powershell\nPS [path] Add-AppxPackage -AppInstallerFile Julia.appinstaller\n\n\n\n\n\nQuelques vidéos utiles pour se familiariser avec le langage Julia\n\nIntro to Julia tutorial (version 1.0) by Jane Herriman Introduction assez complète de la syntaxe de base et quelques éléments avancés.\nThe Unreasonable Effectiveness of Multiple Dispatch Plus de détails sur un atout majeur du langage : le “multiple dispatch”.\n\n\n\n\n\nDocumentation générale de Julia\nPlots.jl\nXsum.jl\nZygote.jl\nPolynomials.jl\nInterpolations.jl\nQuadmath.jl"
+  },
+  {
+    "objectID": "liens.html#installation-de-julia",
+    "href": "liens.html#installation-de-julia",
+    "title": "Liens utiles",
+    "section": "",
+    "text": "Julia peut être installé par l’une des deux options suivantes (la seconde étant préférable car elle devrait devenir à terme la solution officielle)\n\nInstallation classique depuis le site : https://julialang.org/downloads\nInstallation par le biais de juliaup https://github.com/JuliaLang/juliaup, par exemple ici pour Windows.\nNote: sans accès au Windows Store (par exemple restrictions dues à une politique informatique d’entreprise) il est possible de trouver une solution alternative d’installation de juliaup ici qui se résume à\n\nTélécharger le fichier Julia.appinstaller\nExécuter le code suivant sous Powershell\nPS [path] Add-AppxPackage -AppInstallerFile Julia.appinstaller"
+  },
+  {
+    "objectID": "liens.html#vidéos",
+    "href": "liens.html#vidéos",
+    "title": "Liens utiles",
+    "section": "",
+    "text": "Quelques vidéos utiles pour se familiariser avec le langage Julia\n\nIntro to Julia tutorial (version 1.0) by Jane Herriman Introduction assez complète de la syntaxe de base et quelques éléments avancés.\nThe Unreasonable Effectiveness of Multiple Dispatch Plus de détails sur un atout majeur du langage : le “multiple dispatch”."
+  },
+  {
+    "objectID": "liens.html#bibliothèques-utiles-pour-le-cours",
+    "href": "liens.html#bibliothèques-utiles-pour-le-cours",
+    "title": "Liens utiles",
+    "section": "",
+    "text": "Documentation générale de Julia\nPlots.jl\nXsum.jl\nZygote.jl\nPolynomials.jl\nInterpolations.jl\nQuadmath.jl"
   },
   {
     "objectID": "notebooks.html",
