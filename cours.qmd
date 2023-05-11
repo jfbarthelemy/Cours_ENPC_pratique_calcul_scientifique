@@ -9,3 +9,5 @@
 - [Intégration](cours/integration.html)
 
 - [Systèmes linéaires](cours/linear.html)
+
+- [Diagonalisation](cours/eigen.html)

@@ -11,3 +11,5 @@
 - [Systèmes linéaires (exercices en séance)](notebooks/4_systemes_lineaires.ipynb)
 
 - [Systèmes linéaires : gradients conjugués (devoir)](notebooks/4_systemes_lineaires_gradients_conjugues.ipynb)
+
+- [Diagonalisation (séance et devoir)](notebooks/5_valeurs_propres.ipynb)

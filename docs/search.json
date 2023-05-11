@@ -11,7 +11,7 @@
     "href": "cours.html",
     "title": "Cours",
     "section": "",
-    "text": "Cours\n\nLe langage Julia\nCalcul en virgule flottante\nInterpolation\nIntégration\nSystèmes linéaires"
+    "text": "Cours\n\nLe langage Julia\nCalcul en virgule flottante\nInterpolation\nIntégration\nSystèmes linéaires\nDiagonalisation"
   },
   {
     "objectID": "devoirs.html",
@@ -40,6 +40,13 @@
     "title": "Pratique du calcul scientifique",
     "section": "Devoir 3",
     "text": "Devoir 3\n\nFaire tous les exercices du notebook 4_systemes_lineaires_gradients_conjugues.ipynb et soumettre ce dernier sur Educnet.\nDate limite de remise : lundi 15 mai 2023 à 23h59."
+  },
+  {
+    "objectID": "devoirs.html#devoir-4",
+    "href": "devoirs.html#devoir-4",
+    "title": "Pratique du calcul scientifique",
+    "section": "Devoir 4",
+    "text": "Devoir 4\n\nTerminer le notebook 5_valeurs_propres.ipynb et soumettre ce dernier sur Educnet.\nDate limite de remise : lundi 29 mai 2023 à 23h59."
   },
   {
     "objectID": "index.html",
@@ -81,7 +88,7 @@
     "href": "notebooks.html",
     "title": "Notebooks",
     "section": "",
-    "text": "Notebooks\n\nTutoriels Julia par Jane Herriman\nCalcul en virgule flottante\nInterpolation\nIntégration (devoir)\nSystèmes linéaires (exercices en séance)\nSystèmes linéaires : gradients conjugués (devoir)"
+    "text": "Notebooks\n\nTutoriels Julia par Jane Herriman\nCalcul en virgule flottante\nInterpolation\nIntégration (devoir)\nSystèmes linéaires (exercices en séance)\nSystèmes linéaires : gradients conjugués (devoir)\nDiagonalisation (séance et devoir)"
   },
   {
     "objectID": "poly.html",
