@@ -28,3 +28,8 @@
 
   **Date limite de remise** : lundi 29 mai 2023 à 23h59.
 
+## Devoir 5
+
+- Terminer le notebook [`6_nonlinear_autodiff.ipynb`](notebooks/6_nonlinear_autodiff.ipynb) et soumettre ce dernier sur [Educnet](https://educnet.enpc.fr/course/view.php?id=1776).
+
+  **Date limite de remise** : lundi 5 juin 2023 à 23h59.

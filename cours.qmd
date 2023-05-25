@@ -11,3 +11,5 @@
 - [Systèmes linéaires](cours/linear.html)
 
 - [Diagonalisation](cours/eigen.html)
+
+- [Systèmes non linéaires](cours/nonlinear.html)
