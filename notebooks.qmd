@@ -14,4 +14,4 @@
 
 - [Diagonalisation (séance et devoir)](notebooks/5_valeurs_propres.ipynb)
 
-- [Systèmes non linéaires](notebooks/6_nonlinear_autodiff.ipynb)
+- [Systèmes non linéaires (séance et devoir)](notebooks/6_nonlinear_autodiff.ipynb)
