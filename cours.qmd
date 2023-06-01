@@ -13,3 +13,5 @@
 - [Diagonalisation](cours/eigen.html)
 
 - [Systèmes non linéaires](cours/nonlinear.html)
+
+- [Équations différentielles](cours/odes.html)
