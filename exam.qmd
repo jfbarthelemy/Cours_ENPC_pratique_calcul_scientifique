@@ -2,8 +2,14 @@
 
 Faire le notebook [`exam.ipynb`](notebooks/exam.ipynb) et le soumettre sur [Educnet](https://educnet.enpc.fr/mod/assign/view.php?id=58327).
 
-**Consigne** : Cet examen est à cours ouvert. L'accès à toutes les ressources du cours et les recherches sur Internet sont permises.
-Par contre, l'échange d'informations entres élèves (notamment par email, ou par des sites Internet du type Stack Overflow) n'est **pas permis** pendant l'examen.
+**Consignes** : 
 
-**Date limite de remise** : vendredi 9 juin 2023 à 16h (ou 16h40 pour les tiers-temps).
+- Seules les soumissions via [Educnet](https://educnet.enpc.fr/mod/assign/view.php?id=58327) seront acceptées.
+
+- Cet examen est à cours ouvert. L'accès à tous les documents du cours et les recherches sur le Web sont permises.
+
+- Par contre, l'échange d'informations entres élèves par quelque moyen que ce soit (par exemple par email, ou par des sites Web du type Stack Overflow) n'est **pas permis** pendant l'examen.
+  En cas de non-respect de cette consigne, les élèves concerné⋅e⋅s recevront immédiatement une note de 0/20 pour l'ensemble du module.
+
+- L'**heure limite** de remise est à 16h (ou 16h40 pour les tiers-temps).
 
