@@ -1,0 +1,6 @@
+# Examen final
+
+Faire le notebook [`exam.ipynb`](notebooks/exam.ipynb) et le soumettre sur [Educnet](https://educnet.enpc.fr/mod/assign/view.php?id=58327).
+
+**Date limite de remise** : vendredi 9 juin 2023 à 16h (ou 16h40 pour les tiers-temps).
+
