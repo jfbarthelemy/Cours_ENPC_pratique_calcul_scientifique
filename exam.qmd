@@ -2,7 +2,7 @@
 
 Faire le notebook [`exam.ipynb`](notebooks/exam.ipynb) et le soumettre sur [Educnet](https://educnet.enpc.fr/mod/assign/view.php?id=58327).
 
-**Consignes** : 
+**Consignes** :
 
 - Seules les soumissions via [Educnet](https://educnet.enpc.fr/mod/assign/view.php?id=58327) seront acceptées.
 
@@ -12,4 +12,3 @@ Faire le notebook [`exam.ipynb`](notebooks/exam.ipynb) et le soumettre sur [Educ
   En cas de non-respect de cette consigne, les élèves concerné⋅e⋅s recevront immédiatement une note de 0/20 pour l'ensemble du module.
 
 - L'**heure limite** de remise est à 16h (ou 16h40 pour les tiers-temps).
-
