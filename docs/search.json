@@ -1,17 +1,24 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "resit.html",
+    "href": "resit.html",
+    "title": "Examen de rattrapage",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Examen de rattrapage\nFaire le notebook resit.ipynb et le soumettre sur Educnet.\nConsignes :\n\nSeules les soumissions via Educnet seront acceptées.\nCet examen est à cours ouvert. L’accès à tous les documents du cours est permis. L’utilisation du Web est permise, à l’exception de ChatGPT qui n’est pas permis.\nL’échange d’informations entres élèves par quelque moyen que ce soit (par exemple par email, par des sites Web du type Stack Overflow, par Dropbox ou par Git) n’est pas permis pendant l’examen. En cas de non-respect de cette consigne, les élèves concerné⋅e⋅s recevront immédiatement une note de 0/20 pour l’ensemble du module.\nL’heure limite de remise est à 16h30."
   },
   {
-    "objectID": "cours.html",
-    "href": "cours.html",
-    "title": "Cours",
+    "objectID": "notebooks.html",
+    "href": "notebooks.html",
+    "title": "Notebooks",
     "section": "",
-    "text": "Cours\n\nLe langage Julia\nCalcul en virgule flottante\nInterpolation\nIntégration\nSystèmes linéaires\nDiagonalisation\nSystèmes non linéaires\nÉquations différentielles"
+    "text": "Notebooks\n\nTutoriels Julia par Jane Herriman\nCalcul en virgule flottante\nInterpolation\nIntégration (devoir)\nSystèmes linéaires (exercices en séance)\nSystèmes linéaires : gradients conjugués (devoir)\nDiagonalisation (séance et devoir)\nSystèmes non linéaires (séance et devoir)\nÉquations différentielles"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pratique du calcul scientifique",
+    "section": "",
+    "text": "Équipe enseignante :\n\nGroupe 1, salle F102: Jean-François Barthélémy (jean-francois.barthelemy@cerema.fr)\nGroupe 2, salle F103: Renato Spacek (renato.spacek@enpc.fr)\nGroupe 3, salle F107: Noé Blassel (noe.blassel@enpc.fr)\nGroupe 4, salle F108: Shiva Darshan (shiva.darshan@enpc.fr)\nGroupe 5, salle F201: Urbain Vaes (urbain.vaes@inria.fr)\n\nSi vous souhaitez poser une question sur le cours par courriel, merci de contacter votre chargé de cours."
   },
   {
     "objectID": "devoirs.html",
@@ -56,18 +63,25 @@
     "text": "Devoir 5\n\nTerminer le notebook 6_nonlinear_autodiff.ipynb et soumettre ce dernier sur Educnet.\nDate limite de remise : lundi 5 juin 2023 à 23h59."
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "cours.html",
+    "href": "cours.html",
+    "title": "Cours",
+    "section": "",
+    "text": "Cours\n\nLe langage Julia\nCalcul en virgule flottante\nInterpolation\nIntégration\nSystèmes linéaires\nDiagonalisation\nSystèmes non linéaires\nÉquations différentielles"
+  },
+  {
     "objectID": "exam.html",
     "href": "exam.html",
     "title": "Examen final",
     "section": "",
     "text": "Examen final\nFaire le notebook exam.ipynb et le soumettre sur Educnet.\nConsignes :\n\nSeules les soumissions via Educnet seront acceptées.\nCet examen est à cours ouvert. L’accès à tous les documents du cours et les recherches sur le Web sont permises.\nPar contre, l’échange d’informations entres élèves par quelque moyen que ce soit (par exemple par email, ou par des sites Web du type Stack Overflow) n’est pas permis pendant l’examen. En cas de non-respect de cette consigne, les élèves concerné⋅e⋅s recevront immédiatement une note de 0/20 pour l’ensemble du module.\nL’heure limite de remise est à 16h (ou 16h40 pour les tiers-temps)."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Pratique du calcul scientifique",
-    "section": "",
-    "text": "Équipe enseignante :\n\nGroupe 1, salle F102: Jean-François Barthélémy (jean-francois.barthelemy@cerema.fr)\nGroupe 2, salle F103: Renato Spacek (renato.spacek@enpc.fr)\nGroupe 3, salle F107: Noé Blassel (noe.blassel@enpc.fr)\nGroupe 4, salle F108: Shiva Darshan (shiva.darshan@enpc.fr)\nGroupe 5, salle F201: Urbain Vaes (urbain.vaes@inria.fr)\n\nSi vous souhaitez poser une question sur le cours par courriel, merci de contacter votre chargé de cours."
   },
   {
     "objectID": "liens.html",
@@ -98,24 +112,10 @@
     "text": "Documentation générale de Julia\nPlots.jl\nXsum.jl\nZygote.jl\nPolynomials.jl\nInterpolations.jl\nQuadmath.jl"
   },
   {
-    "objectID": "notebooks.html",
-    "href": "notebooks.html",
-    "title": "Notebooks",
-    "section": "",
-    "text": "Notebooks\n\nTutoriels Julia par Jane Herriman\nCalcul en virgule flottante\nInterpolation\nIntégration (devoir)\nSystèmes linéaires (exercices en séance)\nSystèmes linéaires : gradients conjugués (devoir)\nDiagonalisation (séance et devoir)\nSystèmes non linéaires (séance et devoir)\nÉquations différentielles"
-  },
-  {
     "objectID": "poly.html",
     "href": "poly.html",
     "title": "Polycopié du cours",
     "section": "",
     "text": "Polycopié du cours\n\nNotes complètes\nIntroduction\nChapter 1: Floating point arithmetic\nChapter 2: Interpolation and approximation\nChapter 3: Numerical integration\nChapter 4: Solving linear equations\nChapter 5: Solving nonlinear equations\nChapter 6: Calculating eigenvalues and eigenvectors\nChapter 7: Numerical integration of differential equations\nChapter 8: Numerical optimization\nAppendix A: Linear algebra\nAppendix B: Introduction to Julia\nAppendix C: Chebyshev polynomials\nBibliography"
-  },
-  {
-    "objectID": "resit.html",
-    "href": "resit.html",
-    "title": "Examen de rattrapage",
-    "section": "",
-    "text": "Examen de rattrapage\nFaire le notebook resit.ipynb et le soumettre sur Educnet.\nConsignes :\n\nSeules les soumissions via Educnet seront acceptées.\nCet examen est à cours ouvert. L’accès à tous les documents du cours est permis. L’utilisation du Web est permise, à l’exception de ChatGPT qui n’est pas permis.\nL’échange d’informations entres élèves par quelque moyen que ce soit (par exemple par email, par des sites Web du type Stack Overflow, par Dropbox ou par Git) n’est pas permis pendant l’examen. En cas de non-respect de cette consigne, les élèves concerné⋅e⋅s recevront immédiatement une note de 0/20 pour l’ensemble du module.\nL’heure limite de remise est à 16h30."
   }
 ]
