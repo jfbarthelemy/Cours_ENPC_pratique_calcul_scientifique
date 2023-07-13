@@ -43,5 +43,3 @@ Quelques vidéos utiles pour se familiariser avec le langage `Julia`
 - [`Interpolations.jl`](https://github.com/JuliaMath/Interpolations.jl)
 
 - [`Quadmath.jl`](https://github.com/JuliaMath/Quadmath.jl)
-
-

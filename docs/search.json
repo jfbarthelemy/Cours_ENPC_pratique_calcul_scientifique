@@ -110,5 +110,12 @@
     "title": "Polycopié du cours",
     "section": "",
     "text": "Polycopié du cours\n\nNotes complètes\nIntroduction\nChapter 1: Floating point arithmetic\nChapter 2: Interpolation and approximation\nChapter 3: Numerical integration\nChapter 4: Solving linear equations\nChapter 5: Solving nonlinear equations\nChapter 6: Calculating eigenvalues and eigenvectors\nChapter 7: Numerical integration of differential equations\nChapter 8: Numerical optimization\nAppendix A: Linear algebra\nAppendix B: Introduction to Julia\nAppendix C: Chebyshev polynomials\nBibliography"
+  },
+  {
+    "objectID": "resit.html",
+    "href": "resit.html",
+    "title": "Examen de rattrapage",
+    "section": "",
+    "text": "Examen de rattrapage\nFaire le notebook resit.ipynb et le soumettre sur Educnet.\nConsignes :\n\nSeules les soumissions via Educnet seront acceptées.\nCet examen est à cours ouvert. L’accès à tous les documents du cours est permis. L’utilisation du Web est permise, à l’exception de ChatGPT qui n’est pas permis.\nL’échange d’informations entres élèves par quelque moyen que ce soit (par exemple par email, par des sites Web du type Stack Overflow, par Dropbox ou par Git) n’est pas permis pendant l’examen. En cas de non-respect de cette consigne, les élèves concerné⋅e⋅s recevront immédiatement une note de 0/20 pour l’ensemble du module.\nL’heure limite de remise est à 16h30."
   }
 ]

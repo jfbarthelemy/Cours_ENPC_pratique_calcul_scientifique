@@ -21,6 +21,8 @@ website:
         text: Devoirs
       - href: exam.qmd
         text: Examen
+      - href: resit.qmd
+        text: Rattrapage
       - href: liens.qmd
         text: Liens utiles
       - about.qmd
