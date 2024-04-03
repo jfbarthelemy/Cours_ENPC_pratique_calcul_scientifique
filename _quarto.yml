@@ -17,12 +17,6 @@ website:
         text: Cours
       - href: notebooks.qmd
         text: Notebooks
-      - href: devoirs.qmd
-        text: Devoirs
-      - href: exam.qmd
-        text: Examen
-      - href: resit.qmd
-        text: Rattrapage
       - href: liens.qmd
         text: Liens utiles
       - about.qmd

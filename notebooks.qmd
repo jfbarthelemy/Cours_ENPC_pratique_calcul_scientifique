@@ -1,19 +1,2 @@
 # Notebooks
 
-- [Tutoriels Julia par Jane Herriman](https://github.com/xorJane/Introduction_to_Julia_tutorials)
-
-- [Calcul en virgule flottante](notebooks/1_virgule_flottante.ipynb)
-
-- [Interpolation](notebooks/2_interpolation.ipynb)
-
-- [Intégration (devoir)](notebooks/3_integration.ipynb)
-
-- [Systèmes linéaires (exercices en séance)](notebooks/4_systemes_lineaires.ipynb)
-
-- [Systèmes linéaires : gradients conjugués (devoir)](notebooks/4_systemes_lineaires_gradients_conjugues.ipynb)
-
-- [Diagonalisation (séance et devoir)](notebooks/5_valeurs_propres.ipynb)
-
-- [Systèmes non linéaires (séance et devoir)](notebooks/6_nonlinear_autodiff.ipynb)
-
-- [Équations différentielles](notebooks/7_odes.ipynb)

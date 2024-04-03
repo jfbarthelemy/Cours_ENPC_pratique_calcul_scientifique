@@ -1,19 +1,42 @@
 ---
 title: "Pratique du calcul scientifique"
-subtitle: Cours ENPC
+subtitle: École des Ponts ParisTech
 ---
 
-# Équipe enseignante :
+## Installations préalables
 
-- Groupe 1, salle F102: [Jean-François Barthélémy](https://www.cerema.fr/fr/innovation-recherche/recherche/equipes/membre/jean-francois-barthelemy) (jean-francois.barthelemy@cerema.fr)
+### Installation de `Jupyter`
 
-- Groupe 2, salle F103: [Renato Spacek](https://renatospacek.github.io/) (renato.spacek@enpc.fr)
+Deux possibilités :
 
-- Groupe 3, salle F107: [Noé Blassel](https://noeblassel.github.io/) (noe.blassel@enpc.fr)
+- installer [`Anaconda`](https://www.anaconda.com/download) comprenant Python et ses bibliothèques principales mais aussi `Jupyter`,
 
-- Groupe 4, salle F108: [Shiva Darshan](https://shiva-darshan.github.io/) (shiva.darshan@enpc.fr)
+ou
 
-- Groupe 5, salle F201: [Urbain Vaes](https://urbain.vaes.uk/) (urbain.vaes@inria.fr)
+- installer [`Jupyter`](https://jupyter.org/install) seul.
 
-Si vous souhaitez poser une question sur le cours par courriel,
-merci de contacter votre chargé de cours.
+### Installation de `Julia`
+
+Deux possibilités (la première étant préférable car elle facilite la mise à jour des versions) :
+
+- installer le gestionnaire de version [juliaup](https://github.com/JuliaLang/juliaup), par exemple [ici](https://www.microsoft.com/store/apps/9NJNWW8PVKMN) pour Windows,
+
+ou
+
+- installer la dernière version depuis le site : <https://julialang.org/downloads>.
+
+### Installation de `VSCode`
+
+- `VSCode` peut être installé depuis [ce lien](https://code.visualstudio.com/).
+
+- L'extension `Julia` pour `VSCode` est disponible [ici](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) mais peut aussi être installée depuis `VSCode` (icône ![](logo_ext_vscode.png)).
+
+## Équipe enseignante :
+
+- Groupe 1, salle F201: [Jean-François Barthélémy](https://www.cerema.fr/fr/innovation-recherche/recherche/equipes/membre/jean-francois-barthelemy) (jean-francois.barthelemy@cerema.fr)
+
+- Groupe 2, salle F202: [Noé Blassel](https://noeblassel.github.io/) (noe.blassel@enpc.fr)
+
+- Groupe 3, salle F207: [Urbain Vaes](https://urbain.vaes.uk/) (urbain.vaes@inria.fr)
+
+Si vous souhaitez poser une question sur le cours par courriel, merci de contacter votre chargé de cours.

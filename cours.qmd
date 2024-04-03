@@ -1,17 +1,2 @@
 # Cours
 
-- [Le langage Julia](cours/julia.html)
-
-- [Calcul en virgule flottante](cours/virgule_flottante.html)
-
-- [Interpolation](cours/interpolation.html)
-
-- [Intégration](cours/integration.html)
-
-- [Systèmes linéaires](cours/linear.html)
-
-- [Diagonalisation](cours/eigen.html)
-
-- [Systèmes non linéaires](cours/nonlinear.html)
-
-- [Équations différentielles](cours/odes.html)
