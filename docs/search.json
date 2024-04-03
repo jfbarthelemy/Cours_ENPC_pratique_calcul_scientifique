@@ -11,14 +11,14 @@
     "href": "liens.html",
     "title": "Liens utiles",
     "section": "",
-    "text": "Quelques vidéos utiles pour se familiariser avec le langage Julia\n\nIntro to Julia tutorial (version 1.0) by Jane Herriman Introduction assez complète de la syntaxe de base et quelques éléments avancés. Les tutoriels sous forme de notebooks présentés dans la vidéo sont accessibles ici.\nThe Unreasonable Effectiveness of Multiple Dispatch Plus de détails sur un atout majeur du langage : le “multiple dispatch”.\n\n\n\n\n\nDocumentation générale de Julia\nPlots.jl\nXsum.jl\nZygote.jl\nPolynomials.jl\nInterpolations.jl\nQuadmath.jl"
+    "text": "Quelques vidéos utiles pour se familiariser avec le langage Julia\n\nIntro to Julia tutorial (version 1.0) by Jane Herriman\nIntroduction assez complète de la syntaxe de base et quelques éléments avancés. Les tutoriels sous forme de notebooks présentés dans la vidéo sont accessibles ici.\nThe Unreasonable Effectiveness of Multiple Dispatch\nPlus de détails sur un atout majeur du langage : le “multiple dispatch”.\n\n\n\n\n\nDocumentation générale de Julia\nPlots.jl\nXsum.jl\nZygote.jl\nPolynomials.jl\nInterpolations.jl\nQuadmath.jl"
   },
   {
     "objectID": "liens.html#vidéos",
     "href": "liens.html#vidéos",
     "title": "Liens utiles",
     "section": "",
-    "text": "Quelques vidéos utiles pour se familiariser avec le langage Julia\n\nIntro to Julia tutorial (version 1.0) by Jane Herriman Introduction assez complète de la syntaxe de base et quelques éléments avancés. Les tutoriels sous forme de notebooks présentés dans la vidéo sont accessibles ici.\nThe Unreasonable Effectiveness of Multiple Dispatch Plus de détails sur un atout majeur du langage : le “multiple dispatch”."
+    "text": "Quelques vidéos utiles pour se familiariser avec le langage Julia\n\nIntro to Julia tutorial (version 1.0) by Jane Herriman\nIntroduction assez complète de la syntaxe de base et quelques éléments avancés. Les tutoriels sous forme de notebooks présentés dans la vidéo sont accessibles ici.\nThe Unreasonable Effectiveness of Multiple Dispatch\nPlus de détails sur un atout majeur du langage : le “multiple dispatch”."
   },
   {
     "objectID": "liens.html#bibliothèques-utiles-pour-le-cours",

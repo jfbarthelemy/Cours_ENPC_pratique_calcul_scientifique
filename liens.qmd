@@ -5,10 +5,11 @@
 Quelques vidéos utiles pour se familiariser avec le langage `Julia`
 
 - [Intro to Julia tutorial (version 1.0) by Jane Herriman](https://youtu.be/8h8rQyEpiZA)
+
   Introduction assez complète de la syntaxe de base et quelques éléments avancés. Les tutoriels sous forme de notebooks présentés dans la vidéo sont accessibles [ici](https://github.com/xorJane/Introduction_to_Julia_tutorials).
 
-
 - [The Unreasonable Effectiveness of Multiple Dispatch](https://www.youtube.com/watch?v=kc9HwsxE1OY)
+
   Plus de détails sur un atout majeur du langage : le "multiple dispatch".
 
 ## Bibliothèques utiles pour le cours
