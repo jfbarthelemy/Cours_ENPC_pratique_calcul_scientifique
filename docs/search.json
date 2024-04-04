@@ -46,14 +46,14 @@
     "href": "index.html",
     "title": "Pratique du calcul scientifique",
     "section": "",
-    "text": "Deux possibilités :\n\ninstaller Anaconda comprenant Python et ses bibliothèques principales mais aussi Jupyter,\n\nou\n\ninstaller Jupyter seul.\n\n\n\n\nDeux possibilités (la première étant préférable car elle facilite la mise à jour des versions) :\n\ninstaller le gestionnaire de version juliaup, par exemple ici pour Windows,\n\nou\n\ninstaller la dernière version depuis le site : https://julialang.org/downloads.\n\n\n\n\n\nVSCode peut être installé depuis ce lien.\nL’extension Julia pour VSCode est disponible ici mais peut aussi être installée depuis VSCode (icône )."
+    "text": "Deux possibilités :\n\ninstaller Anaconda comprenant Python et ses bibliothèques principales mais aussi Jupyter,\nou installer Jupyter seul.\n\n\n\n\nDeux possibilités (la première étant préférable car elle facilite la mise à jour des versions) :\n\ninstaller le gestionnaire de version juliaup, par exemple ici pour Windows,\nou installer la dernière version depuis le site : https://julialang.org/downloads.\n\n\n\n\n\nVSCode peut être installé depuis ce lien.\nL’extension Julia pour VSCode est disponible ici mais peut aussi être installée depuis VSCode (icône )."
   },
   {
     "objectID": "index.html#installations-préalables",
     "href": "index.html#installations-préalables",
     "title": "Pratique du calcul scientifique",
     "section": "",
-    "text": "Deux possibilités :\n\ninstaller Anaconda comprenant Python et ses bibliothèques principales mais aussi Jupyter,\n\nou\n\ninstaller Jupyter seul.\n\n\n\n\nDeux possibilités (la première étant préférable car elle facilite la mise à jour des versions) :\n\ninstaller le gestionnaire de version juliaup, par exemple ici pour Windows,\n\nou\n\ninstaller la dernière version depuis le site : https://julialang.org/downloads.\n\n\n\n\n\nVSCode peut être installé depuis ce lien.\nL’extension Julia pour VSCode est disponible ici mais peut aussi être installée depuis VSCode (icône )."
+    "text": "Deux possibilités :\n\ninstaller Anaconda comprenant Python et ses bibliothèques principales mais aussi Jupyter,\nou installer Jupyter seul.\n\n\n\n\nDeux possibilités (la première étant préférable car elle facilite la mise à jour des versions) :\n\ninstaller le gestionnaire de version juliaup, par exemple ici pour Windows,\nou installer la dernière version depuis le site : https://julialang.org/downloads.\n\n\n\n\n\nVSCode peut être installé depuis ce lien.\nL’extension Julia pour VSCode est disponible ici mais peut aussi être installée depuis VSCode (icône )."
   },
   {
     "objectID": "index.html#équipe-enseignante",

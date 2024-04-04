@@ -5,27 +5,23 @@ subtitle: École des Ponts ParisTech
 
 ## Installations préalables
 
-### Installation de `Jupyter`
+### `Jupyter`
 
 Deux possibilités :
 
 - installer [`Anaconda`](https://www.anaconda.com/download) comprenant Python et ses bibliothèques principales mais aussi `Jupyter`,
 
-ou
+- ou installer [`Jupyter`](https://jupyter.org/install) seul.
 
-- installer [`Jupyter`](https://jupyter.org/install) seul.
-
-### Installation de `Julia`
+### `Julia`
 
 Deux possibilités (la première étant préférable car elle facilite la mise à jour des versions) :
 
 - installer le gestionnaire de version [juliaup](https://github.com/JuliaLang/juliaup), par exemple [ici](https://www.microsoft.com/store/apps/9NJNWW8PVKMN) pour Windows,
 
-ou
+- ou installer la dernière version depuis le site : <https://julialang.org/downloads>.
 
-- installer la dernière version depuis le site : <https://julialang.org/downloads>.
-
-### Installation de `VSCode`
+### `VSCode`
 
 - `VSCode` peut être installé depuis [ce lien](https://code.visualstudio.com/).
 
