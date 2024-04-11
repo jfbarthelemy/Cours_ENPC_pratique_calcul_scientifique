@@ -1,2 +1,5 @@
 # Notebooks
 
+## Semaine 1
+
+- [Introduction au langage Julia](notebooks/intro_julia.ipynb)

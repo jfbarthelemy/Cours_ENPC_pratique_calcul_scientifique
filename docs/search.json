@@ -32,7 +32,14 @@
     "href": "cours.html",
     "title": "Cours",
     "section": "",
-    "text": "Cours"
+    "text": "Introduction au langage Julia"
+  },
+  {
+    "objectID": "cours.html#semaine-1",
+    "href": "cours.html#semaine-1",
+    "title": "Cours",
+    "section": "",
+    "text": "Introduction au langage Julia"
   },
   {
     "objectID": "about.html",
@@ -67,6 +74,13 @@
     "href": "notebooks.html",
     "title": "Notebooks",
     "section": "",
-    "text": "Notebooks"
+    "text": "Introduction au langage Julia"
+  },
+  {
+    "objectID": "notebooks.html#semaine-1",
+    "href": "notebooks.html#semaine-1",
+    "title": "Notebooks",
+    "section": "",
+    "text": "Introduction au langage Julia"
   }
 ]

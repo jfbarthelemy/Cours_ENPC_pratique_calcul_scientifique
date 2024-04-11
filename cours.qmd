@@ -1,2 +1,6 @@
 # Cours
 
+## Semaine 1
+
+- [Introduction au langage Julia](cours/julia.html)
+
