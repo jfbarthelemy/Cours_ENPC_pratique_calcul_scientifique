@@ -1,45 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "poly.html",
+    "href": "poly.html",
+    "title": "Polycopié du cours",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "cours.html",
-    "href": "cours.html",
-    "title": "Cours",
-    "section": "",
-    "text": "Introduction au langage Julia"
-  },
-  {
-    "objectID": "cours.html#semaine-1",
-    "href": "cours.html#semaine-1",
-    "title": "Cours",
-    "section": "",
-    "text": "Introduction au langage Julia"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Pratique du calcul scientifique",
-    "section": "",
-    "text": "Deux possibilités :\n\ninstaller Anaconda comprenant Python et ses bibliothèques principales mais aussi Jupyter,\nou installer Jupyter seul.\n\n\n\n\nDeux possibilités (la première étant préférable car elle facilite la mise à jour des versions) :\n\ninstaller le gestionnaire de version juliaup, par exemple ici pour Windows,\nou installer la dernière version depuis le site : https://julialang.org/downloads.\n\n\n\n\n\nVSCode peut être installé depuis ce lien.\nL’extension Julia pour VSCode est disponible ici mais peut aussi être installée depuis VSCode (icône )."
-  },
-  {
-    "objectID": "index.html#installations-préalables",
-    "href": "index.html#installations-préalables",
-    "title": "Pratique du calcul scientifique",
-    "section": "",
-    "text": "Deux possibilités :\n\ninstaller Anaconda comprenant Python et ses bibliothèques principales mais aussi Jupyter,\nou installer Jupyter seul.\n\n\n\n\nDeux possibilités (la première étant préférable car elle facilite la mise à jour des versions) :\n\ninstaller le gestionnaire de version juliaup, par exemple ici pour Windows,\nou installer la dernière version depuis le site : https://julialang.org/downloads.\n\n\n\n\n\nVSCode peut être installé depuis ce lien.\nL’extension Julia pour VSCode est disponible ici mais peut aussi être installée depuis VSCode (icône )."
-  },
-  {
-    "objectID": "index.html#équipe-enseignante",
-    "href": "index.html#équipe-enseignante",
-    "title": "Pratique du calcul scientifique",
-    "section": "Équipe enseignante :",
-    "text": "Équipe enseignante :\n\nGroupe 1, salle F201: Jean-François Barthélémy (jean-francois.barthelemy@cerema.fr)\nGroupe 2, salle F202: Noé Blassel (noe.blassel@enpc.fr)\nGroupe 3, salle F207: Urbain Vaes (urbain.vaes@inria.fr)\n\nSi vous souhaitez poser une question sur le cours par courriel, merci de contacter votre chargé de cours."
+    "text": "Polycopié du cours\n\nNotes complètes\nIntroduction\nChapter 1: Floating point arithmetic\nChapter 2: Interpolation and approximation\nChapter 3: Numerical integration\nChapter 4: Solving linear equations\nChapter 5: Solving nonlinear equations\nChapter 6: Calculating eigenvalues and eigenvectors\nChapter 7: Numerical integration of differential equations\nChapter 8: Numerical optimization\nAppendix A: Linear algebra\nAppendix B: Introduction to Julia\nAppendix C: Chebyshev polynomials\nBibliography"
   },
   {
     "objectID": "liens.html",
@@ -63,24 +28,59 @@
     "text": "Documentation générale de Julia\nPlots.jl\nXsum.jl\nZygote.jl\nPolynomials.jl\nInterpolations.jl\nQuadmath.jl"
   },
   {
+    "objectID": "cours.html",
+    "href": "cours.html",
+    "title": "Cours",
+    "section": "",
+    "text": "Introduction au langage Julia"
+  },
+  {
+    "objectID": "cours.html#semaine-1",
+    "href": "cours.html#semaine-1",
+    "title": "Cours",
+    "section": "",
+    "text": "Introduction au langage Julia"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pratique du calcul scientifique",
+    "section": "",
+    "text": "Deux possibilités :\n\ninstaller Anaconda comprenant Python et ses bibliothèques principales mais aussi Jupyter,\nou installer Jupyter seul.\n\n\n\n\nDeux possibilités (la première étant préférable car elle facilite la mise à jour des versions) :\n\ninstaller le gestionnaire de version juliaup, par exemple ici pour Windows,\nou installer la dernière version depuis le site : https://julialang.org/downloads.\n\n\n\n\n\nVSCode peut être installé depuis ce lien.\nL’extension Julia pour VSCode est disponible ici mais peut aussi être installée depuis VSCode (icône )."
+  },
+  {
+    "objectID": "index.html#installations-préalables",
+    "href": "index.html#installations-préalables",
+    "title": "Pratique du calcul scientifique",
+    "section": "",
+    "text": "Deux possibilités :\n\ninstaller Anaconda comprenant Python et ses bibliothèques principales mais aussi Jupyter,\nou installer Jupyter seul.\n\n\n\n\nDeux possibilités (la première étant préférable car elle facilite la mise à jour des versions) :\n\ninstaller le gestionnaire de version juliaup, par exemple ici pour Windows,\nou installer la dernière version depuis le site : https://julialang.org/downloads.\n\n\n\n\n\nVSCode peut être installé depuis ce lien.\nL’extension Julia pour VSCode est disponible ici mais peut aussi être installée depuis VSCode (icône )."
+  },
+  {
+    "objectID": "index.html#équipe-enseignante",
+    "href": "index.html#équipe-enseignante",
+    "title": "Pratique du calcul scientifique",
+    "section": "Équipe enseignante :",
+    "text": "Équipe enseignante :\n\nGroupe 1, salle F201: Jean-François Barthélémy (jean-francois.barthelemy@cerema.fr)\nGroupe 2, salle F202: Noé Blassel (noe.blassel@enpc.fr)\nGroupe 3, salle F207: Urbain Vaes (urbain.vaes@inria.fr)\n\nSi vous souhaitez poser une question sur le cours par courriel, merci de contacter votre chargé de cours."
+  },
+  {
     "objectID": "notebooks.html",
     "href": "notebooks.html",
     "title": "Notebooks",
     "section": "",
-    "text": "Introduction au langage Julia"
+    "text": "Introduction au langage Julia\nDevoir à remettre sur Educnet au plus tard le jeudi 25 avril 2024, 23:59."
   },
   {
     "objectID": "notebooks.html#semaine-1",
     "href": "notebooks.html#semaine-1",
     "title": "Notebooks",
     "section": "",
-    "text": "Introduction au langage Julia"
-  },
-  {
-    "objectID": "poly.html",
-    "href": "poly.html",
-    "title": "Polycopié du cours",
-    "section": "",
-    "text": "Polycopié du cours\n\nNotes complètes\nIntroduction\nChapter 1: Floating point arithmetic\nChapter 2: Interpolation and approximation\nChapter 3: Numerical integration\nChapter 4: Solving linear equations\nChapter 5: Solving nonlinear equations\nChapter 6: Calculating eigenvalues and eigenvectors\nChapter 7: Numerical integration of differential equations\nChapter 8: Numerical optimization\nAppendix A: Linear algebra\nAppendix B: Introduction to Julia\nAppendix C: Chebyshev polynomials\nBibliography"
+    "text": "Introduction au langage Julia\nDevoir à remettre sur Educnet au plus tard le jeudi 25 avril 2024, 23:59."
   }
 ]
