@@ -3,3 +3,7 @@
 ## Semaine 1
 
 - [Introduction au langage Julia](notebooks/intro_julia.ipynb)
+
+## Semaine 2
+
+- [Interpolation, approximation et intégration](notebooks/interpolation.ipynb)

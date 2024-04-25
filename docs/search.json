@@ -67,7 +67,7 @@
     "href": "notebooks.html",
     "title": "Notebooks",
     "section": "",
-    "text": "Introduction au langage Julia"
+    "text": "Introduction au langage Julia\n\n\n\n\n\nInterpolation, approximation et intégration"
   },
   {
     "objectID": "notebooks.html#semaine-1",
@@ -75,6 +75,13 @@
     "title": "Notebooks",
     "section": "",
     "text": "Introduction au langage Julia"
+  },
+  {
+    "objectID": "notebooks.html#semaine-2",
+    "href": "notebooks.html#semaine-2",
+    "title": "Notebooks",
+    "section": "",
+    "text": "Interpolation, approximation et intégration"
   },
   {
     "objectID": "poly.html",
