@@ -11,7 +11,7 @@
     "href": "cours.html",
     "title": "Cours",
     "section": "",
-    "text": "Introduction au langage Julia"
+    "text": "Introduction au langage Julia\n\n\n\n\n\nInterpolation et approximation\nIntégration"
   },
   {
     "objectID": "cours.html#semaine-1",
@@ -19,6 +19,13 @@
     "title": "Cours",
     "section": "",
     "text": "Introduction au langage Julia"
+  },
+  {
+    "objectID": "cours.html#semaine-2",
+    "href": "cours.html#semaine-2",
+    "title": "Cours",
+    "section": "",
+    "text": "Interpolation et approximation\nIntégration"
   },
   {
     "objectID": "index.html",
