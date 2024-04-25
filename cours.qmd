@@ -4,3 +4,8 @@
 
 - [Introduction au langage Julia](cours/julia.html)
 
+## Semaine 2
+
+- [Interpolation et approximation](cours/interpolation.html)
+
+- [Intégration](cours/integration.html)
