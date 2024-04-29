@@ -9,3 +9,5 @@ Devoir à remettre sur [Educnet](https://educnet.enpc.fr/course/view.php?id=1776
 ## Semaine 2
 
 - [Interpolation, approximation et intégration](notebooks/interpolation.ipynb)
+
+Devoir à remettre sur [Educnet](https://educnet.enpc.fr/mod/assign/view.php?id=65147) au plus tard le **jeudi 2 mai 2024, 23:59**.

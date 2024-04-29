@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "poly.html",
-    "href": "poly.html",
-    "title": "Polycopié du cours",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Polycopié du cours\n\nNotes complètes\nIntroduction\nChapter 1: Floating point arithmetic\nChapter 2: Interpolation and approximation\nChapter 3: Numerical integration\nChapter 4: Solving linear equations\nChapter 5: Solving nonlinear equations\nChapter 6: Calculating eigenvalues and eigenvectors\nChapter 7: Numerical integration of differential equations\nChapter 8: Numerical optimization\nAppendix A: Linear algebra\nAppendix B: Introduction to Julia\nAppendix C: Chebyshev polynomials\nBibliography"
-  },
-  {
-    "objectID": "liens.html",
-    "href": "liens.html",
-    "title": "Liens utiles",
-    "section": "",
-    "text": "Quelques vidéos utiles pour se familiariser avec le langage Julia\n\nIntro to Julia tutorial (version 1.0) by Jane Herriman\nIntroduction assez complète de la syntaxe de base et quelques éléments avancés. Les tutoriels sous forme de notebooks présentés dans la vidéo sont accessibles ici.\nThe Unreasonable Effectiveness of Multiple Dispatch\nPlus de détails sur un atout majeur du langage : le “multiple dispatch”.\n\n\n\n\n\nDocumentation générale de Julia\nPlots.jl\nXsum.jl\nZygote.jl\nPolynomials.jl\nInterpolations.jl\nQuadmath.jl"
-  },
-  {
-    "objectID": "liens.html#vidéos",
-    "href": "liens.html#vidéos",
-    "title": "Liens utiles",
-    "section": "",
-    "text": "Quelques vidéos utiles pour se familiariser avec le langage Julia\n\nIntro to Julia tutorial (version 1.0) by Jane Herriman\nIntroduction assez complète de la syntaxe de base et quelques éléments avancés. Les tutoriels sous forme de notebooks présentés dans la vidéo sont accessibles ici.\nThe Unreasonable Effectiveness of Multiple Dispatch\nPlus de détails sur un atout majeur du langage : le “multiple dispatch”."
-  },
-  {
-    "objectID": "liens.html#bibliothèques-utiles-pour-le-cours",
-    "href": "liens.html#bibliothèques-utiles-pour-le-cours",
-    "title": "Liens utiles",
-    "section": "",
-    "text": "Documentation générale de Julia\nPlots.jl\nXsum.jl\nZygote.jl\nPolynomials.jl\nInterpolations.jl\nQuadmath.jl"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "cours.html",
@@ -49,13 +28,6 @@
     "text": "Interpolation et approximation\nIntégration"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Pratique du calcul scientifique",
@@ -77,11 +49,32 @@
     "text": "Équipe enseignante :\n\nGroupe 1, salle F201: Jean-François Barthélémy (jean-francois.barthelemy@cerema.fr)\nGroupe 2, salle F202: Noé Blassel (noe.blassel@enpc.fr)\nGroupe 3, salle F207: Urbain Vaes (urbain.vaes@inria.fr)\n\nSi vous souhaitez poser une question sur le cours par courriel, merci de contacter votre chargé de cours."
   },
   {
+    "objectID": "liens.html",
+    "href": "liens.html",
+    "title": "Liens utiles",
+    "section": "",
+    "text": "Quelques vidéos utiles pour se familiariser avec le langage Julia\n\nIntro to Julia tutorial (version 1.0) by Jane Herriman\nIntroduction assez complète de la syntaxe de base et quelques éléments avancés. Les tutoriels sous forme de notebooks présentés dans la vidéo sont accessibles ici.\nThe Unreasonable Effectiveness of Multiple Dispatch\nPlus de détails sur un atout majeur du langage : le “multiple dispatch”.\n\n\n\n\n\nDocumentation générale de Julia\nPlots.jl\nXsum.jl\nZygote.jl\nPolynomials.jl\nInterpolations.jl\nQuadmath.jl"
+  },
+  {
+    "objectID": "liens.html#vidéos",
+    "href": "liens.html#vidéos",
+    "title": "Liens utiles",
+    "section": "",
+    "text": "Quelques vidéos utiles pour se familiariser avec le langage Julia\n\nIntro to Julia tutorial (version 1.0) by Jane Herriman\nIntroduction assez complète de la syntaxe de base et quelques éléments avancés. Les tutoriels sous forme de notebooks présentés dans la vidéo sont accessibles ici.\nThe Unreasonable Effectiveness of Multiple Dispatch\nPlus de détails sur un atout majeur du langage : le “multiple dispatch”."
+  },
+  {
+    "objectID": "liens.html#bibliothèques-utiles-pour-le-cours",
+    "href": "liens.html#bibliothèques-utiles-pour-le-cours",
+    "title": "Liens utiles",
+    "section": "",
+    "text": "Documentation générale de Julia\nPlots.jl\nXsum.jl\nZygote.jl\nPolynomials.jl\nInterpolations.jl\nQuadmath.jl"
+  },
+  {
     "objectID": "notebooks.html",
     "href": "notebooks.html",
     "title": "Notebooks",
     "section": "",
-    "text": "Introduction au langage Julia\n\nDevoir à remettre sur Educnet au plus tard le jeudi 25 avril 2024, 23:59.\n\n\n\n\nInterpolation, approximation et intégration"
+    "text": "Introduction au langage Julia\n\nDevoir à remettre sur Educnet au plus tard le jeudi 25 avril 2024, 23:59.\n\n\n\n\nInterpolation, approximation et intégration\n\nDevoir à remettre sur Educnet au plus tard le jeudi 2 mai 2024, 23:59."
   },
   {
     "objectID": "notebooks.html#semaine-1",
@@ -95,6 +88,13 @@
     "href": "notebooks.html#semaine-2",
     "title": "Notebooks",
     "section": "",
-    "text": "Interpolation, approximation et intégration"
+    "text": "Interpolation, approximation et intégration\n\nDevoir à remettre sur Educnet au plus tard le jeudi 2 mai 2024, 23:59."
+  },
+  {
+    "objectID": "poly.html",
+    "href": "poly.html",
+    "title": "Polycopié du cours",
+    "section": "",
+    "text": "Polycopié du cours\n\nNotes complètes\nIntroduction\nChapter 1: Floating point arithmetic\nChapter 2: Interpolation and approximation\nChapter 3: Numerical integration\nChapter 4: Solving linear equations\nChapter 5: Solving nonlinear equations\nChapter 6: Calculating eigenvalues and eigenvectors\nChapter 7: Numerical integration of differential equations\nChapter 8: Numerical optimization\nAppendix A: Linear algebra\nAppendix B: Introduction to Julia\nAppendix C: Chebyshev polynomials\nBibliography"
   }
 ]
