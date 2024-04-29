@@ -4,7 +4,7 @@
 
 - [Introduction au langage Julia](notebooks/intro_julia.ipynb)
 
-Devoir à remettre sur [Educnet](https://educnet.enpc.fr/course/view.php?id=1776) au plus tard le **jeudi 25 avril 2024, 23:59**.
+Devoir à remettre sur [Educnet](https://educnet.enpc.fr/mod/assign/view.php?id=65028) au plus tard le **jeudi 25 avril 2024, 23:59**.
 
 ## Semaine 2
 
