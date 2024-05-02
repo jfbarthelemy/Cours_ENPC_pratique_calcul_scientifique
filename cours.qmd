@@ -9,3 +9,7 @@
 - [Interpolation et approximation](cours/interpolation.html)
 
 - [Intégration](cours/integration.html)
+
+## Semaine 3
+
+- [Systèmes linéaires](cours/linear.html)
