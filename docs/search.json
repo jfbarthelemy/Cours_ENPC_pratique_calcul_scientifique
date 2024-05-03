@@ -81,7 +81,7 @@
     "href": "notebooks.html",
     "title": "Notebooks",
     "section": "",
-    "text": "Introduction au langage Julia\n\nDevoir à remettre sur Educnet au plus tard le jeudi 25 avril 2024, 23:59.\n\n\n\n\nInterpolation, approximation et intégration\n\nDevoir à remettre sur Educnet au plus tard le jeudi 2 mai 2024, 23:59.\n\n\n\n\nSystèmes linéaires\n\nDevoir à remettre sur Educnet au plus tard le jeudi 16 mai 2024, 23:59."
+    "text": "Introduction au langage Julia\n\nDevoir à remettre sur Educnet au plus tard le jeudi 25 avril 2024, 23:59.\n\n\n\n\nInterpolation, approximation et intégration\n\nDevoir à remettre sur Educnet au plus tard le jeudi 2 mai 2024, 23:59.\n\n\n\n\nSystèmes linéaires\n\nCorrection: Dans l’énoncé de l’exercice 3.4,\n\nremplacer e_k par r_k\nremplacer A - ωI par I - ωA\n\nDevoir à remettre sur Educnet au plus tard le jeudi 16 mai 2024, 23:59."
   },
   {
     "objectID": "notebooks.html#semaine-1",
@@ -102,7 +102,7 @@
     "href": "notebooks.html#semaine-3",
     "title": "Notebooks",
     "section": "",
-    "text": "Systèmes linéaires\n\nDevoir à remettre sur Educnet au plus tard le jeudi 16 mai 2024, 23:59."
+    "text": "Systèmes linéaires\n\nCorrection: Dans l’énoncé de l’exercice 3.4,\n\nremplacer e_k par r_k\nremplacer A - ωI par I - ωA\n\nDevoir à remettre sur Educnet au plus tard le jeudi 16 mai 2024, 23:59."
   },
   {
     "objectID": "about.html",

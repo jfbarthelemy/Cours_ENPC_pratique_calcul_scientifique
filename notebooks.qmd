@@ -16,4 +16,10 @@ Devoir à remettre sur [Educnet](https://educnet.enpc.fr/mod/assign/view.php?id=
 
 - [Systèmes linéaires](notebooks/linear.ipynb)
 
+**Correction**: Dans l'énoncé de l'exercice 3.4,
+
+- remplacer `e_k` par `r_k`
+
+- remplacer A - ωI par I - ωA
+
 Devoir à remettre sur [Educnet](https://educnet.enpc.fr/mod/assign/view.php?id=65638) au plus tard le **jeudi 16 mai 2024, 23:59**.
