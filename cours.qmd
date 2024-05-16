@@ -13,3 +13,7 @@
 ## Semaine 3
 
 - [Systèmes linéaires](cours/linear.html)
+
+## Semaine 4
+
+- [Problèmes aux valeurs propres](cours/eigen.html)
