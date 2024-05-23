@@ -29,3 +29,9 @@ Devoir à remettre sur [Educnet](https://educnet.enpc.fr/mod/assign/view.php?id=
 - [Problèmes aux valeurs propres](notebooks/eigen.ipynb)
 
 Devoir à remettre sur [Educnet](https://educnet.enpc.fr/mod/assign/view.php?id=65760) au plus tard le **jeudi 23 mai 2024, 23:59**.
+
+## Semaine 5
+
+- [Équations non linéaires](notebooks/nonlinear.ipynb)
+
+Devoir à remettre sur [Educnet](https://educnet.enpc.fr/mod/assign/view.php?id=65812) au plus tard le **jeudi 30 mai 2024, 23:59**.

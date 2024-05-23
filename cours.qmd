@@ -17,3 +17,7 @@
 ## Semaine 4
 
 - [Problèmes aux valeurs propres](cours/eigen.html)
+
+## Semaine 5
+
+- [Équations non linéaires](cours/nonlinear.html)
