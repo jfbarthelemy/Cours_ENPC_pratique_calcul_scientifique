@@ -35,3 +35,9 @@ Devoir à remettre sur [Educnet](https://educnet.enpc.fr/mod/assign/view.php?id=
 - [Équations non linéaires](notebooks/nonlinear.ipynb)
 
 Devoir à remettre sur [Educnet](https://educnet.enpc.fr/mod/assign/view.php?id=65812) au plus tard le **jeudi 30 mai 2024, 23:59**.
+
+## Semaine 6
+
+- [Équations différentielles ordinaires](notebooks/odes.ipynb)
+
+Ce notebook n'est pas à remettre.

@@ -21,3 +21,7 @@
 ## Semaine 5
 
 - [Équations non linéaires](cours/nonlinear.html)
+
+## Semaine 6
+
+- [Équations différentielles ordinaires](cours/odes.html)
