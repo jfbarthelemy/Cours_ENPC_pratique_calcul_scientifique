@@ -102,7 +102,7 @@
     "href": "notebooks.html",
     "title": "Notebooks",
     "section": "",
-    "text": "Introduction au langage Julia\n\nDevoir à remettre sur Educnet au plus tard le jeudi 25 avril 2024, 23:59.\n\n\n\n\nInterpolation, approximation et intégration\n\nDevoir à remettre sur Educnet au plus tard le jeudi 2 mai 2024, 23:59.\n\n\n\n\nSystèmes linéaires\n\nCorrection: Dans l’énoncé de l’exercice 3.4,\n\nremplacer e_k par r_k\nremplacer A - ωI par I - ωA\n\nDevoir à remettre sur Educnet au plus tard le jeudi 16 mai 2024, 23:59.\n\n\n\n\nProblèmes aux valeurs propres\n\nDevoir à remettre sur Educnet au plus tard le jeudi 23 mai 2024, 23:59.\n\n\n\n\nÉquations non linéaires\n\nDevoir à remettre sur Educnet au plus tard le jeudi 30 mai 2024, 23:59.\n\n\n\n\nÉquations différentielles ordinaires\n\nCe notebook n’est pas à remettre."
+    "text": "Introduction au langage Julia\n\nDevoir à remettre sur Educnet au plus tard le jeudi 25 avril 2024, 23:59.\n\n\n\n\nInterpolation, approximation et intégration\n\nDevoir à remettre sur Educnet au plus tard le jeudi 2 mai 2024, 23:59.\n\n\n\n\nSystèmes linéaires\n\nCorrection: Dans l’énoncé de l’exercice 3.4,\n\nremplacer e_k par r_k\nremplacer A - ωI par I - ωA\n\nDevoir à remettre sur Educnet au plus tard le jeudi 16 mai 2024, 23:59.\n\n\n\n\nProblèmes aux valeurs propres\n\nDevoir à remettre sur Educnet au plus tard le jeudi 23 mai 2024, 23:59.\n\n\n\n\nÉquations non linéaires\n\nDevoir à remettre sur Educnet au plus tard le jeudi 30 mai 2024, 23:59.\n\n\n\n\nÉquations différentielles ordinaires\nÉquations différentielles ordinaires: solutions\n\nCe notebook n’est pas à remettre.\n\n\n\n\nExamen 2023\nRattrapage 2023"
   },
   {
     "objectID": "notebooks.html#semaine-1",
@@ -144,7 +144,14 @@
     "href": "notebooks.html#semaine-6",
     "title": "Notebooks",
     "section": "",
-    "text": "Équations différentielles ordinaires\n\nCe notebook n’est pas à remettre."
+    "text": "Équations différentielles ordinaires\nÉquations différentielles ordinaires: solutions\n\nCe notebook n’est pas à remettre."
+  },
+  {
+    "objectID": "notebooks.html#archives",
+    "href": "notebooks.html#archives",
+    "title": "Notebooks",
+    "section": "",
+    "text": "Examen 2023\nRattrapage 2023"
   },
   {
     "objectID": "about.html",
