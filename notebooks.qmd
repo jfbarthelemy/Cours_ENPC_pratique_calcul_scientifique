@@ -48,4 +48,8 @@ Ce notebook n'est pas à remettre.
 
 - [Examen 2023](notebooks/exam_2023.ipynb)
 
+- [Examen 2023: solutions](notebooks/exam_2023_sol.ipynb)
+
 - [Rattrapage 2023](notebooks/resit_2023.ipynb)
+
+- [Rattrapage 2023: solutions](notebooks/resit_2023_sol.ipynb)
