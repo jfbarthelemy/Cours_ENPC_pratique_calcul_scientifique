@@ -98,6 +98,13 @@
     "text": "Équations différentielles ordinaires"
   },
   {
+    "objectID": "exam.html",
+    "href": "exam.html",
+    "title": "Examen final",
+    "section": "",
+    "text": "Examen final\nFaire le notebook exam.ipynb et le soumettre sur Educnet.\nConsignes :\n\nSeules les soumissions via Educnet seront acceptées.\nCet examen est à cours ouvert. L’accès à tous les documents du cours, y compris les notebook, est permis. L’utilisation du Web est permise, à l’exception de ChatGPT et des services similaires, dont l’utilisation n’est pas permise.\nL’échange d’informations entres élèves par quelque moyen que ce soit (par exemple par email, ou par des sites Web du type Stack Overflow) n’est pas permis pendant l’examen. Le non-respect de cette consigne se soldera par une note de 0/20 pour l’ensemble du module, sans possibilité de rattrapage.\nToutes les applications de chat (Facebook, WhatsApp, Discord, et toutes les autres) doivent être fermées et déconnectées.\nL’heure limite de remise est à 11h45."
+  },
+  {
     "objectID": "notebooks.html",
     "href": "notebooks.html",
     "title": "Notebooks",

@@ -1,0 +1,19 @@
+# Examen final
+
+Faire le notebook [`exam.ipynb`](notebooks/exam.ipynb) et le soumettre sur [Educnet](https://educnet.enpc.fr/mod/assign/view.php?id=65895).
+
+**Consignes** :
+
+- Seules les soumissions via [Educnet](https://educnet.enpc.fr/mod/assign/view.php?id=65895) seront acceptées.
+
+- Cet examen est à cours ouvert. L'accès à tous les documents du cours, y compris les notebook, est permis.
+  L'utilisation du Web est permise, à l'exception de ChatGPT et des services similaires,
+  dont l'utilisation n'est **pas permise**.
+
+- L'échange d'informations entres élèves par quelque moyen que ce soit (par exemple par email, ou par des sites Web du type Stack Overflow) n'est **pas permis** pendant l'examen.
+  Le non-respect de cette consigne se soldera par une note de 0/20 pour l’ensemble du module, sans possibilité de rattrapage.
+
+- Toutes les applications de chat (Facebook, WhatsApp, Discord, et toutes les autres) doivent être fermées et déconnectées.
+
+- L'**heure limite** de remise est à 11h45.
+

@@ -17,6 +17,8 @@ website:
         text: Cours
       - href: notebooks.qmd
         text: Notebooks
+      - href: exam.qmd
+        text: Examen
       - href: liens.qmd
         text: Liens utiles
       - about.qmd
