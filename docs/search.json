@@ -1,52 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Pratique du calcul scientifique",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Deux possibilités :\n\ninstaller Anaconda comprenant Python et ses bibliothèques principales mais aussi Jupyter,\nou installer Jupyter seul.\n\n\n\n\nDeux possibilités (la première étant préférable car elle facilite la mise à jour des versions) :\n\ninstaller le gestionnaire de version juliaup, par exemple ici pour Windows,\nou installer la dernière version depuis le site : https://julialang.org/downloads.\n\n\n\n\n\nVSCode peut être installé depuis ce lien.\nL’extension Julia pour VSCode est disponible ici mais peut aussi être installée depuis VSCode (icône )."
-  },
-  {
-    "objectID": "index.html#installations-préalables",
-    "href": "index.html#installations-préalables",
-    "title": "Pratique du calcul scientifique",
-    "section": "",
-    "text": "Deux possibilités :\n\ninstaller Anaconda comprenant Python et ses bibliothèques principales mais aussi Jupyter,\nou installer Jupyter seul.\n\n\n\n\nDeux possibilités (la première étant préférable car elle facilite la mise à jour des versions) :\n\ninstaller le gestionnaire de version juliaup, par exemple ici pour Windows,\nou installer la dernière version depuis le site : https://julialang.org/downloads.\n\n\n\n\n\nVSCode peut être installé depuis ce lien.\nL’extension Julia pour VSCode est disponible ici mais peut aussi être installée depuis VSCode (icône )."
-  },
-  {
-    "objectID": "index.html#équipe-enseignante",
-    "href": "index.html#équipe-enseignante",
-    "title": "Pratique du calcul scientifique",
-    "section": "Équipe enseignante :",
-    "text": "Équipe enseignante :\n\nGroupe 1, salle F201: Jean-François Barthélémy (jean-francois.barthelemy@cerema.fr)\nGroupe 2, salle F202: Noé Blassel (noe.blassel@enpc.fr)\nGroupe 3, salle F207: Urbain Vaes (urbain.vaes@inria.fr)\n\nSi vous souhaitez poser une question sur le cours par courriel, merci de contacter votre chargé de cours."
-  },
-  {
-    "objectID": "poly.html",
-    "href": "poly.html",
-    "title": "Polycopié du cours",
-    "section": "",
-    "text": "Polycopié du cours\n\nNotes complètes\nIntroduction\nChapter 1: Floating point arithmetic\nChapter 2: Interpolation and approximation\nChapter 3: Numerical integration\nChapter 4: Solving linear equations\nChapter 5: Solving nonlinear equations\nChapter 6: Calculating eigenvalues and eigenvectors\nChapter 7: Numerical integration of differential equations\nChapter 8: Numerical optimization\nAppendix A: Linear algebra\nAppendix B: Introduction to Julia\nAppendix C: Chebyshev polynomials\nBibliography"
-  },
-  {
-    "objectID": "liens.html",
-    "href": "liens.html",
-    "title": "Liens utiles",
-    "section": "",
-    "text": "Quelques vidéos utiles pour se familiariser avec le langage Julia\n\nIntro to Julia tutorial (version 1.0) by Jane Herriman\nIntroduction assez complète de la syntaxe de base et quelques éléments avancés. Les tutoriels sous forme de notebooks présentés dans la vidéo sont accessibles ici.\nThe Unreasonable Effectiveness of Multiple Dispatch\nPlus de détails sur un atout majeur du langage : le “multiple dispatch”.\n\n\n\n\n\nDocumentation générale de Julia\nPlots.jl\nXsum.jl\nZygote.jl\nPolynomials.jl\nInterpolations.jl\nQuadmath.jl"
-  },
-  {
-    "objectID": "liens.html#vidéos",
-    "href": "liens.html#vidéos",
-    "title": "Liens utiles",
-    "section": "",
-    "text": "Quelques vidéos utiles pour se familiariser avec le langage Julia\n\nIntro to Julia tutorial (version 1.0) by Jane Herriman\nIntroduction assez complète de la syntaxe de base et quelques éléments avancés. Les tutoriels sous forme de notebooks présentés dans la vidéo sont accessibles ici.\nThe Unreasonable Effectiveness of Multiple Dispatch\nPlus de détails sur un atout majeur du langage : le “multiple dispatch”."
-  },
-  {
-    "objectID": "liens.html#bibliothèques-utiles-pour-le-cours",
-    "href": "liens.html#bibliothèques-utiles-pour-le-cours",
-    "title": "Liens utiles",
-    "section": "",
-    "text": "Documentation générale de Julia\nPlots.jl\nXsum.jl\nZygote.jl\nPolynomials.jl\nInterpolations.jl\nQuadmath.jl"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "cours.html",
@@ -105,6 +63,48 @@
     "text": "Examen final\nFaire le notebook exam.ipynb et le soumettre sur Educnet.\nConsignes :\n\nSeules les soumissions via Educnet seront acceptées.\nCet examen est à cours ouvert. L’accès à tous les documents du cours, y compris les notebook, est permis. L’utilisation du Web est permise, à l’exception de ChatGPT et des services similaires, dont l’utilisation n’est pas permise.\nL’échange d’informations entres élèves par quelque moyen que ce soit (par exemple par email, ou par des sites Web du type Stack Overflow) n’est pas permis pendant l’examen. Le non-respect de cette consigne se soldera par une note de 0/20 pour l’ensemble du module, sans possibilité de rattrapage.\nToutes les applications de chat (Facebook, WhatsApp, Discord, et toutes les autres) doivent être fermées et déconnectées.\nL’heure limite de remise est à 11h45."
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pratique du calcul scientifique",
+    "section": "",
+    "text": "Deux possibilités :\n\ninstaller Anaconda comprenant Python et ses bibliothèques principales mais aussi Jupyter,\nou installer Jupyter seul.\n\n\n\n\nDeux possibilités (la première étant préférable car elle facilite la mise à jour des versions) :\n\ninstaller le gestionnaire de version juliaup, par exemple ici pour Windows,\nou installer la dernière version depuis le site : https://julialang.org/downloads.\n\n\n\n\n\nVSCode peut être installé depuis ce lien.\nL’extension Julia pour VSCode est disponible ici mais peut aussi être installée depuis VSCode (icône )."
+  },
+  {
+    "objectID": "index.html#installations-préalables",
+    "href": "index.html#installations-préalables",
+    "title": "Pratique du calcul scientifique",
+    "section": "",
+    "text": "Deux possibilités :\n\ninstaller Anaconda comprenant Python et ses bibliothèques principales mais aussi Jupyter,\nou installer Jupyter seul.\n\n\n\n\nDeux possibilités (la première étant préférable car elle facilite la mise à jour des versions) :\n\ninstaller le gestionnaire de version juliaup, par exemple ici pour Windows,\nou installer la dernière version depuis le site : https://julialang.org/downloads.\n\n\n\n\n\nVSCode peut être installé depuis ce lien.\nL’extension Julia pour VSCode est disponible ici mais peut aussi être installée depuis VSCode (icône )."
+  },
+  {
+    "objectID": "index.html#équipe-enseignante",
+    "href": "index.html#équipe-enseignante",
+    "title": "Pratique du calcul scientifique",
+    "section": "Équipe enseignante :",
+    "text": "Équipe enseignante :\n\nGroupe 1, salle F201: Jean-François Barthélémy (jean-francois.barthelemy@cerema.fr)\nGroupe 2, salle F202: Noé Blassel (noe.blassel@enpc.fr)\nGroupe 3, salle F207: Urbain Vaes (urbain.vaes@inria.fr)\n\nSi vous souhaitez poser une question sur le cours par courriel, merci de contacter votre chargé de cours."
+  },
+  {
+    "objectID": "liens.html",
+    "href": "liens.html",
+    "title": "Liens utiles",
+    "section": "",
+    "text": "Quelques vidéos utiles pour se familiariser avec le langage Julia\n\nIntro to Julia tutorial (version 1.0) by Jane Herriman\nIntroduction assez complète de la syntaxe de base et quelques éléments avancés. Les tutoriels sous forme de notebooks présentés dans la vidéo sont accessibles ici.\nThe Unreasonable Effectiveness of Multiple Dispatch\nPlus de détails sur un atout majeur du langage : le “multiple dispatch”.\n\n\n\n\n\nDocumentation générale de Julia\nPlots.jl\nXsum.jl\nZygote.jl\nPolynomials.jl\nInterpolations.jl\nQuadmath.jl"
+  },
+  {
+    "objectID": "liens.html#vidéos",
+    "href": "liens.html#vidéos",
+    "title": "Liens utiles",
+    "section": "",
+    "text": "Quelques vidéos utiles pour se familiariser avec le langage Julia\n\nIntro to Julia tutorial (version 1.0) by Jane Herriman\nIntroduction assez complète de la syntaxe de base et quelques éléments avancés. Les tutoriels sous forme de notebooks présentés dans la vidéo sont accessibles ici.\nThe Unreasonable Effectiveness of Multiple Dispatch\nPlus de détails sur un atout majeur du langage : le “multiple dispatch”."
+  },
+  {
+    "objectID": "liens.html#bibliothèques-utiles-pour-le-cours",
+    "href": "liens.html#bibliothèques-utiles-pour-le-cours",
+    "title": "Liens utiles",
+    "section": "",
+    "text": "Documentation générale de Julia\nPlots.jl\nXsum.jl\nZygote.jl\nPolynomials.jl\nInterpolations.jl\nQuadmath.jl"
+  },
+  {
     "objectID": "notebooks.html",
     "href": "notebooks.html",
     "title": "Notebooks",
@@ -161,10 +161,10 @@
     "text": "Examen 2023\nExamen 2023: solutions\nRattrapage 2023\nRattrapage 2023: solutions"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "poly.html",
+    "href": "poly.html",
+    "title": "Polycopié du cours",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Polycopié du cours\n\nNotes complètes\nIntroduction\nChapter 1: Floating point arithmetic\nChapter 2: Interpolation and approximation\nChapter 3: Numerical integration\nChapter 4: Solving linear equations\nChapter 5: Solving nonlinear equations\nChapter 6: Calculating eigenvalues and eigenvectors\nChapter 7: Numerical integration of differential equations\nChapter 8: Numerical optimization\nAppendix A: Linear algebra\nAppendix B: Introduction to Julia\nAppendix C: Chebyshev polynomials\nBibliography"
   }
 ]
