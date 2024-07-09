@@ -1,10 +1,10 @@
-# Examen final
+# Examen de rattrapage
 
-Faire le notebook [`exam.ipynb`](notebooks/exam.ipynb) et le soumettre sur [Educnet](https://educnet.enpc.fr/mod/assign/view.php?id=65895).
+Faire le notebook [`resit.ipynb`](notebooks/resit.ipynb) et le soumettre sur [Educnet](https://educnet.enpc.fr/mod/assign/view.php?id=66064).
 
 **Consignes** :
 
-- Seules les soumissions via [Educnet](https://educnet.enpc.fr/mod/assign/view.php?id=65895) seront acceptées.
+- Seules les soumissions via [Educnet](https://educnet.enpc.fr/mod/assign/view.php?id=66064) seront acceptées.
 
 - Cet examen est à cours ouvert. L'accès à tous les documents du cours, y compris les notebook, est permis.
   L'utilisation du Web est permise, à l'exception de ChatGPT et des services similaires,
@@ -15,5 +15,4 @@ Faire le notebook [`exam.ipynb`](notebooks/exam.ipynb) et le soumettre sur [Educ
 
 - Toutes les applications de chat (Facebook, WhatsApp, Discord, et toutes les autres) doivent être fermées et déconnectées.
 
-- L'**heure limite** de remise est à 11h45.
-
+- L'**heure limite** de remise est à 16h15.
