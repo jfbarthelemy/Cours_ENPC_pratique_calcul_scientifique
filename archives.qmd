@@ -1,0 +1,13 @@
+# Archives
+
+- [Examen 2023](notebooks/exam_2023.ipynb)
+
+- [Examen 2023: solutions](notebooks/exam_2023_sol.ipynb)
+
+- [Rattrapage 2023](notebooks/resit_2023.ipynb)
+
+- [Rattrapage 2023: solutions](notebooks/resit_2023_sol.ipynb)
+
+- [Examen 2024](notebooks/exam_2024.ipynb)
+
+- [Examen 2024: solutions](notebooks/exam_2024_sol.ipynb)
