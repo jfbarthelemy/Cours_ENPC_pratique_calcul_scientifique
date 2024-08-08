@@ -1,7 +1,5 @@
 # Examen de rattrapage
 
-Faire le notebook [`resit.ipynb`](notebooks/resit.ipynb) et le soumettre sur [Educnet](https://educnet.enpc.fr/mod/assign/view.php?id=66064).
-
 **Consignes** :
 
 - Seules les soumissions via [Educnet](https://educnet.enpc.fr/mod/assign/view.php?id=66064) seront acceptées.

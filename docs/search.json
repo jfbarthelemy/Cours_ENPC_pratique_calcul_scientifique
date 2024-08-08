@@ -102,14 +102,14 @@
     "href": "archives.html",
     "title": "Archives",
     "section": "",
-    "text": "Archives\n\nExamen 2023\nExamen 2023: solutions\nRattrapage 2023\nRattrapage 2023: solutions\nExamen 2024\nExamen 2024: solutions"
+    "text": "Archives\n\nExamen 2023\nExamen 2023: solutions\nRattrapage 2023\nRattrapage 2023: solutions\nExamen 2024\nExamen 2024: solutions\nRattrapage 2024\nRattrapage 2024: solutions"
   },
   {
     "objectID": "exam.html",
     "href": "exam.html",
     "title": "Examen de rattrapage",
     "section": "",
-    "text": "Examen de rattrapage\nFaire le notebook resit.ipynb et le soumettre sur Educnet.\nConsignes :\n\nSeules les soumissions via Educnet seront acceptées.\nCet examen est à cours ouvert. L’accès à tous les documents du cours, y compris les notebook, est permis. L’utilisation du Web est permise, à l’exception de ChatGPT et des services similaires, dont l’utilisation n’est pas permise.\nL’échange d’informations entres élèves par quelque moyen que ce soit (par exemple par email, ou par des sites Web du type Stack Overflow) n’est pas permis pendant l’examen. Le non-respect de cette consigne se soldera par une note de 0/20 pour l’ensemble du module, sans possibilité de rattrapage.\nToutes les applications de chat (Facebook, WhatsApp, Discord, et toutes les autres) doivent être fermées et déconnectées.\nL’heure limite de remise est à 16h15."
+    "text": "Examen de rattrapage\nConsignes :\n\nSeules les soumissions via Educnet seront acceptées.\nCet examen est à cours ouvert. L’accès à tous les documents du cours, y compris les notebook, est permis. L’utilisation du Web est permise, à l’exception de ChatGPT et des services similaires, dont l’utilisation n’est pas permise.\nL’échange d’informations entres élèves par quelque moyen que ce soit (par exemple par email, ou par des sites Web du type Stack Overflow) n’est pas permis pendant l’examen. Le non-respect de cette consigne se soldera par une note de 0/20 pour l’ensemble du module, sans possibilité de rattrapage.\nToutes les applications de chat (Facebook, WhatsApp, Discord, et toutes les autres) doivent être fermées et déconnectées.\nL’heure limite de remise est à 16h15."
   },
   {
     "objectID": "notebooks.html",
@@ -159,13 +159,6 @@
     "title": "Notebooks",
     "section": "",
     "text": "Équations différentielles ordinaires\nÉquations différentielles ordinaires: solutions\n\nCe notebook n’est pas à remettre."
-  },
-  {
-    "objectID": "notebooks.html#archives",
-    "href": "notebooks.html#archives",
-    "title": "Notebooks",
-    "section": "",
-    "text": "Examen 2023\nExamen 2023: solutions\nRattrapage 2023\nRattrapage 2023: solutions\nExamen 2024\nExamen 2024: solutions"
   },
   {
     "objectID": "about.html",
