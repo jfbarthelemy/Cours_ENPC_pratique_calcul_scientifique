@@ -9,27 +9,29 @@ project:
 
 website:
   title: "Pratique du calcul scientifique"
+  favicon: "logo_calcul_scientifique.png"
   navbar:
-    left:
-      - href: poly.qmd
-        text: Polycopié
-      - href: cours.qmd
-        text: Cours
-      - href: notebooks.qmd
-        text: Notebooks
-      - href: exam.qmd
-        text: Examen
-      - href: archives.qmd
-        text: Archives
-      - href: liens.qmd
-        text: Liens utiles
-      - about.qmd
+    logo: "logo_calcul_scientifique.png"
+    # left:
+    #   - href: poly.qmd
+    #     text: Polycopié
+    #   - href: cours.qmd
+    #     text: Cours
+    #   - href: notebooks.qmd
+    #     text: Notebooks
+    #   - href: exam.qmd
+    #     text: Examen
+    #   - href: archives.qmd
+    #     text: Archives
+    #   - href: liens.qmd
+    #     text: Liens utiles
+    #   - about.qmd
 
 editor:
     render-on-save: true
 
 format:
   html:
-    theme: zephyr
+    theme: default
     css: styles.css
     toc: true

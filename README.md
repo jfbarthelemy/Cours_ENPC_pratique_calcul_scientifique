@@ -2,4 +2,4 @@
 
 [Site du polycopié](https://urbain.vaes.uk/teaching/2023-cs/)
 
-[Site du cours](https://jfbarthelemy.github.io/Cours_ENPC_pratique_calcul_scientifique/)
+[Site du cours](https://enpc-casc.github.io/)
